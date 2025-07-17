@@ -1,0 +1,4664 @@
+[
+  {
+    "id": "Abel K",
+    "label": "Abel K",
+    "x": -3.9045,
+    "y": 6.6708,
+    "group": "Other"
+  },
+  {
+    "id": "Adam S",
+    "label": "Adam S",
+    "x": 4.0798,
+    "y": -10.192,
+    "group": "Other"
+  },
+  {
+    "id": "Adams J",
+    "label": "Adams J",
+    "x": -6.8376,
+    "y": 7.9252,
+    "group": "Other"
+  },
+  {
+    "id": "Addabbo T",
+    "label": "Addabbo T",
+    "x": -5.2527,
+    "y": -2.9942,
+    "group": "CAPP"
+  },
+  {
+    "id": "Alarcon Garcia G",
+    "label": "Alarcon Garcia G",
+    "x": -8.3656,
+    "y": -6.1599,
+    "group": "Other"
+  },
+  {
+    "id": "Albanese A",
+    "label": "Albanese A",
+    "x": 8.3148,
+    "y": -15.4095,
+    "group": "Other"
+  },
+  {
+    "id": "Alboni F",
+    "label": "Alboni F",
+    "x": 7.9688,
+    "y": 1.9118,
+    "group": "Other"
+  },
+  {
+    "id": "Aldashev G",
+    "label": "Aldashev G",
+    "x": 17.6347,
+    "y": 9.2379,
+    "group": "Other"
+  },
+  {
+    "id": "Ales E",
+    "label": "Ales E",
+    "x": -0.9853,
+    "y": -2.8729,
+    "group": "Other"
+  },
+  {
+    "id": "Allari G",
+    "label": "Allari G",
+    "x": 4.4333,
+    "y": 2.0943,
+    "group": "Other"
+  },
+  {
+    "id": "Almorox E",
+    "label": "Almorox E",
+    "x": -1.9414,
+    "y": 10.7266,
+    "group": "Other"
+  },
+  {
+    "id": "Ambrosi A",
+    "label": "Ambrosi A",
+    "x": 9.6403,
+    "y": -14.9478,
+    "group": "Other"
+  },
+  {
+    "id": "Andersen B",
+    "label": "Andersen B",
+    "x": 14.3641,
+    "y": 14.7625,
+    "group": "Other"
+  },
+  {
+    "id": "Annalisa C",
+    "label": "Annalisa C",
+    "x": 11.6829,
+    "y": 7.4397,
+    "group": "Other"
+  },
+  {
+    "id": "Ansaloni V",
+    "label": "Ansaloni V",
+    "x": 13.408,
+    "y": -10.1834,
+    "group": "Other"
+  },
+  {
+    "id": "Anselmi L",
+    "label": "Anselmi L",
+    "x": -6.8324,
+    "y": 9.6858,
+    "group": "Other"
+  },
+  {
+    "id": "Antonelli C",
+    "label": "Antonelli C",
+    "x": 15.8554,
+    "y": 13.2794,
+    "group": "Other"
+  },
+  {
+    "id": "Aprea M",
+    "label": "Aprea M",
+    "x": 11.3979,
+    "y": -13.9631,
+    "group": "Other"
+  },
+  {
+    "id": "Aramyan L",
+    "label": "Aramyan L",
+    "x": 20.0061,
+    "y": 1.3925,
+    "group": "Other"
+  },
+  {
+    "id": "Arciprete C",
+    "label": "Arciprete C",
+    "x": -9.2726,
+    "y": -0.3368,
+    "group": "Other"
+  },
+  {
+    "id": "Arrizabalaga M",
+    "label": "Arrizabalaga M",
+    "x": -8.8545,
+    "y": -9.9453,
+    "group": "Other"
+  },
+  {
+    "id": "Ashcroft D",
+    "label": "Ashcroft D",
+    "x": -5.0067,
+    "y": 5.3914,
+    "group": "Other"
+  },
+  {
+    "id": "Assunta Giuliano G",
+    "label": "Assunta Giuliano G",
+    "x": 11.5601,
+    "y": -12.9458,
+    "group": "Other"
+  },
+  {
+    "id": "Audino F",
+    "label": "Audino F",
+    "x": -1.9953,
+    "y": 2.5243,
+    "group": "Other"
+  },
+  {
+    "id": "Aydilek G",
+    "label": "Aydilek G",
+    "x": 3.3375,
+    "y": -8.9139,
+    "group": "Other"
+  },
+  {
+    "id": "Aziz F",
+    "label": "Aziz F",
+    "x": -11.7303,
+    "y": -6.1733,
+    "group": "Other"
+  },
+  {
+    "id": "Azzalini D",
+    "label": "Azzalini D",
+    "x": 2.127,
+    "y": 4.8179,
+    "group": "Other"
+  },
+  {
+    "id": "B H",
+    "label": "B H",
+    "x": -2.1157,
+    "y": 4.3019,
+    "group": "Other"
+  },
+  {
+    "id": "Badalassi G",
+    "label": "Badalassi G",
+    "x": -4.2866,
+    "y": -0.9915,
+    "group": "Other"
+  },
+  {
+    "id": "Baines N",
+    "label": "Baines N",
+    "x": 12.3641,
+    "y": 15.4618,
+    "group": "Other"
+  },
+  {
+    "id": "Balboni B",
+    "label": "Balboni B",
+    "x": -3.5794,
+    "y": -6.0144,
+    "group": "Other"
+  },
+  {
+    "id": "Baldini M",
+    "label": "Baldini M",
+    "x": -0.167,
+    "y": -5.2729,
+    "group": "CAPP"
+  },
+  {
+    "id": "Ballini F",
+    "label": "Ballini F",
+    "x": -5.5174,
+    "y": 4.5079,
+    "group": "Other"
+  },
+  {
+    "id": "Banchelli F",
+    "label": "Banchelli F",
+    "x": 18.9919,
+    "y": 0.1794,
+    "group": "Other"
+  },
+  {
+    "id": "Bancilhon F",
+    "label": "Bancilhon F",
+    "x": 10.3063,
+    "y": 4.703,
+    "group": "Other"
+  },
+  {
+    "id": "Baracchi M",
+    "label": "Baracchi M",
+    "x": 9.6036,
+    "y": 2.5223,
+    "group": "Other"
+  },
+  {
+    "id": "Barbieri R",
+    "label": "Barbieri R",
+    "x": 1.4335,
+    "y": 4.9788,
+    "group": "Other"
+  },
+  {
+    "id": "Barigazzi A",
+    "label": "Barigazzi A",
+    "x": 2.565,
+    "y": -9.3827,
+    "group": "CAPP"
+  },
+  {
+    "id": "Barra C",
+    "label": "Barra C",
+    "x": -11.2816,
+    "y": 1.9465,
+    "group": "Other"
+  },
+  {
+    "id": "Basi P",
+    "label": "Basi P",
+    "x": 11.927,
+    "y": -3.4216,
+    "group": "Other"
+  },
+  {
+    "id": "Bastos A",
+    "label": "Bastos A",
+    "x": -11.5448,
+    "y": -7.1672,
+    "group": "Other"
+  },
+  {
+    "id": "Bechtold P",
+    "label": "Bechtold P",
+    "x": 2.1787,
+    "y": 3.9872,
+    "group": "Other"
+  },
+  {
+    "id": "Bellandi M",
+    "label": "Bellandi M",
+    "x": 5.4433,
+    "y": 11.2117,
+    "group": "Other"
+  },
+  {
+    "id": "Benassi D",
+    "label": "Benassi D",
+    "x": 8.9255,
+    "y": -4.8209,
+    "group": "Other"
+  },
+  {
+    "id": "Bencivenga R",
+    "label": "Bencivenga R",
+    "x": -10.1451,
+    "y": 0.1186,
+    "group": "Other"
+  },
+  {
+    "id": "Bertini S",
+    "label": "Bertini S",
+    "x": 4.8053,
+    "y": 3.5796,
+    "group": "Other"
+  },
+  {
+    "id": "Bertolini P",
+    "label": "Bertolini P",
+    "x": 6.301,
+    "y": 0.6447,
+    "group": "CAPP"
+  },
+  {
+    "id": "Bertoni F",
+    "label": "Bertoni F",
+    "x": 8.4133,
+    "y": -8.6853,
+    "group": "Other"
+  },
+  {
+    "id": "Bertossi P",
+    "label": "Bertossi P",
+    "x": 10.9808,
+    "y": 16.6996,
+    "group": "Other"
+  },
+  {
+    "id": "Betti G",
+    "label": "Betti G",
+    "x": -6.0816,
+    "y": 6.086,
+    "group": "Other"
+  },
+  {
+    "id": "Bettio F",
+    "label": "Bettio F",
+    "x": 7.5467,
+    "y": -7.3718,
+    "group": "Other"
+  },
+  {
+    "id": "Bianchi P",
+    "label": "Bianchi P",
+    "x": 5.8444,
+    "y": -5.3191,
+    "group": "Other"
+  },
+  {
+    "id": "Bigarelli D",
+    "label": "Bigarelli D",
+    "x": 5.2,
+    "y": -1.1122,
+    "group": "Other"
+  },
+  {
+    "id": "Biggeri M",
+    "label": "Biggeri M",
+    "x": -10.0207,
+    "y": 1.9299,
+    "group": "Other"
+  },
+  {
+    "id": "Billings J",
+    "label": "Billings J",
+    "x": -8.0136,
+    "y": 8.627,
+    "group": "Other"
+  },
+  {
+    "id": "Binik O",
+    "label": "Binik O",
+    "x": -9.3962,
+    "y": -2.41,
+    "group": "Other"
+  },
+  {
+    "id": "Biondi Y",
+    "label": "Biondi Y",
+    "x": 19.461,
+    "y": -0.2356,
+    "group": "Other"
+  },
+  {
+    "id": "Blasi I",
+    "label": "Blasi I",
+    "x": -2.3179,
+    "y": 8.6659,
+    "group": "Other"
+  },
+  {
+    "id": "Bo H",
+    "label": "Bo H",
+    "x": -7.2221,
+    "y": 6.1209,
+    "group": "Other"
+  },
+  {
+    "id": "Bochicchio V",
+    "label": "Bochicchio V",
+    "x": -11.9139,
+    "y": -6.6551,
+    "group": "Other"
+  },
+  {
+    "id": "Bodas Freitas I",
+    "label": "Bodas Freitas I",
+    "x": 7.656,
+    "y": 17.6583,
+    "group": "Other"
+  },
+  {
+    "id": "Bokhari F",
+    "label": "Bokhari F",
+    "x": -4.1092,
+    "y": 10.5328,
+    "group": "Other"
+  },
+  {
+    "id": "Bonacini L",
+    "label": "Bonacini L",
+    "x": 8.0716,
+    "y": -9.171,
+    "group": "CAPP"
+  },
+  {
+    "id": "Bonaretti P",
+    "label": "Bonaretti P",
+    "x": 5.3062,
+    "y": 3.0041,
+    "group": "Other"
+  },
+  {
+    "id": "Bonifati G",
+    "label": "Bonifati G",
+    "x": 7.1196,
+    "y": 0.3614,
+    "group": "Other"
+  },
+  {
+    "id": "Bontempi M",
+    "label": "Bontempi M",
+    "x": -0.1975,
+    "y": -17.9318,
+    "group": "Other"
+  },
+  {
+    "id": "Borderias C",
+    "label": "Borderias C",
+    "x": -6.5213,
+    "y": -9.3735,
+    "group": "Other"
+  },
+  {
+    "id": "Borghi V",
+    "label": "Borghi V",
+    "x": -10.2348,
+    "y": -8.6511,
+    "group": "Other"
+  },
+  {
+    "id": "Borkey P",
+    "label": "Borkey P",
+    "x": 6.8474,
+    "y": 8.678,
+    "group": "Other"
+  },
+  {
+    "id": "Borsari L",
+    "label": "Borsari L",
+    "x": 3.4328,
+    "y": 4.1623,
+    "group": "Other"
+  },
+  {
+    "id": "Boscolo S",
+    "label": "Boscolo S",
+    "x": 9.1929,
+    "y": -15.1826,
+    "group": "Other"
+  },
+  {
+    "id": "Bosi P",
+    "label": "Bosi P",
+    "x": 3.4758,
+    "y": -5.815,
+    "group": "CAPP"
+  },
+  {
+    "id": "Bradley F",
+    "label": "Bradley F",
+    "x": -1.1672,
+    "y": 11.1034,
+    "group": "Other"
+  },
+  {
+    "id": "Bromwich W",
+    "label": "Bromwich W",
+    "x": -5.824,
+    "y": -6.8348,
+    "group": "Other"
+  },
+  {
+    "id": "Brunetti I",
+    "label": "Brunetti I",
+    "x": 9.3238,
+    "y": -14.0405,
+    "group": "Other"
+  },
+  {
+    "id": "Brunetti M",
+    "label": "Brunetti M",
+    "x": 5.8465,
+    "y": 1.0683,
+    "group": "Other"
+  },
+  {
+    "id": "Brunori P",
+    "label": "Brunori P",
+    "x": -1.2107,
+    "y": -13.1081,
+    "group": "Other"
+  },
+  {
+    "id": "Brusco S",
+    "label": "Brusco S",
+    "x": 6.104,
+    "y": -0.1565,
+    "group": "Other"
+  },
+  {
+    "id": "Busilacchi G",
+    "label": "Busilacchi G",
+    "x": 2.9703,
+    "y": -11.589,
+    "group": "Other"
+  },
+  {
+    "id": "Cabri G",
+    "label": "Cabri G",
+    "x": -11.1137,
+    "y": -5.9325,
+    "group": "Other"
+  },
+  {
+    "id": "Caiumi A",
+    "label": "Caiumi A",
+    "x": -11.1458,
+    "y": 0.0604,
+    "group": "CAPP"
+  },
+  {
+    "id": "Caloffi A",
+    "label": "Caloffi A",
+    "x": 11.8,
+    "y": 7.1554,
+    "group": "CAPP"
+  },
+  {
+    "id": "Canali C",
+    "label": "Canali C",
+    "x": -7.7989,
+    "y": -2.2059,
+    "group": "Other"
+  },
+  {
+    "id": "Canovi L",
+    "label": "Canovi L",
+    "x": 10.0567,
+    "y": 1.382,
+    "group": "Other"
+  },
+  {
+    "id": "Cantalupi M",
+    "label": "Cantalupi M",
+    "x": 8.3902,
+    "y": -3.6806,
+    "group": "Other"
+  },
+  {
+    "id": "Capecchi S",
+    "label": "Capecchi S",
+    "x": -5.8192,
+    "y": -2.5597,
+    "group": "Other"
+  },
+  {
+    "id": "Cardinale Ciccotti C",
+    "label": "Cardinale Ciccotti C",
+    "x": 7.6609,
+    "y": 7.7632,
+    "group": "Other"
+  },
+  {
+    "id": "Cardinali V",
+    "label": "Cardinali V",
+    "x": -7.3058,
+    "y": -4.1096,
+    "group": "Other"
+  },
+  {
+    "id": "Cardullo P",
+    "label": "Cardullo P",
+    "x": 9.3889,
+    "y": 7.4579,
+    "group": "Other"
+  },
+  {
+    "id": "Carletti T",
+    "label": "Carletti T",
+    "x": 18.6698,
+    "y": 6.6026,
+    "group": "Other"
+  },
+  {
+    "id": "Carney P",
+    "label": "Carney P",
+    "x": -12.1376,
+    "y": 0.8232,
+    "group": "Other"
+  },
+  {
+    "id": "Carreto Sangines J",
+    "label": "Carreto Sangines J",
+    "x": 11.9179,
+    "y": 4.4215,
+    "group": "Other"
+  },
+  {
+    "id": "Carroni E",
+    "label": "Carroni E",
+    "x": 19.5153,
+    "y": 3.0212,
+    "group": "Other"
+  },
+  {
+    "id": "Carrozzi G",
+    "label": "Carrozzi G",
+    "x": 2.3688,
+    "y": 7.3372,
+    "group": "Other"
+  },
+  {
+    "id": "Carta E",
+    "label": "Carta E",
+    "x": 6.9087,
+    "y": -4.4708,
+    "group": "Other"
+  },
+  {
+    "id": "Caruso E",
+    "label": "Caruso E",
+    "x": -1.9093,
+    "y": -4.8298,
+    "group": "CAPP"
+  },
+  {
+    "id": "Caruso G",
+    "label": "Caruso G",
+    "x": -0.9403,
+    "y": -4.9794,
+    "group": "Other"
+  },
+  {
+    "id": "Casabianca E",
+    "label": "Casabianca E",
+    "x": -2.458,
+    "y": -10.6368,
+    "group": "Other"
+  },
+  {
+    "id": "Casaca S",
+    "label": "Casaca S",
+    "x": -9.9289,
+    "y": -9.1818,
+    "group": "Other"
+  },
+  {
+    "id": "Casadei T",
+    "label": "Casadei T",
+    "x": -7.1982,
+    "y": -6.0024,
+    "group": "Other"
+  },
+  {
+    "id": "Castelli L",
+    "label": "Castelli L",
+    "x": -11.7197,
+    "y": -0.2203,
+    "group": "Other"
+  },
+  {
+    "id": "Castro A",
+    "label": "Castro A",
+    "x": -1.8366,
+    "y": 6.515,
+    "group": "Other"
+  },
+  {
+    "id": "Castrogiovanni A",
+    "label": "Castrogiovanni A",
+    "x": 8.1112,
+    "y": -6.6941,
+    "group": "Other"
+  },
+  {
+    "id": "Cavedoni F",
+    "label": "Cavedoni F",
+    "x": 9.7794,
+    "y": 8.3262,
+    "group": "Other"
+  },
+  {
+    "id": "Centra M",
+    "label": "Centra M",
+    "x": -11.3957,
+    "y": 0.6949,
+    "group": "Other"
+  },
+  {
+    "id": "Ceriani V",
+    "label": "Ceriani V",
+    "x": -4.0902,
+    "y": -12.5739,
+    "group": "Other"
+  },
+  {
+    "id": "Cetrulo A",
+    "label": "Cetrulo A",
+    "x": 9.706,
+    "y": 6.7041,
+    "group": "Other"
+  },
+  {
+    "id": "Chakraborty R",
+    "label": "Chakraborty R",
+    "x": -1.6312,
+    "y": 11.252,
+    "group": "Other"
+  },
+  {
+    "id": "Checkland K",
+    "label": "Checkland K",
+    "x": -6.0604,
+    "y": 7.4118,
+    "group": "Other"
+  },
+  {
+    "id": "Chiari A",
+    "label": "Chiari A",
+    "x": -12.1294,
+    "y": -5.5463,
+    "group": "Other"
+  },
+  {
+    "id": "Chiarolanza A",
+    "label": "Chiarolanza A",
+    "x": 1.0329,
+    "y": -0.8017,
+    "group": "Other"
+  },
+  {
+    "id": "Ciani E",
+    "label": "Ciani E",
+    "x": -0.1763,
+    "y": -0.3787,
+    "group": "CAPP"
+  },
+  {
+    "id": "Ciarini A",
+    "label": "Ciarini A",
+    "x": 14.0307,
+    "y": -10.4678,
+    "group": "Other"
+  },
+  {
+    "id": "Cipollone P",
+    "label": "Cipollone P",
+    "x": 6.4386,
+    "y": 9.1831,
+    "group": "Other"
+  },
+  {
+    "id": "Claudio L",
+    "label": "Claudio L",
+    "x": 3.3881,
+    "y": -11.1154,
+    "group": "Other"
+  },
+  {
+    "id": "Coccia G",
+    "label": "Coccia G",
+    "x": 9.378,
+    "y": -3.7554,
+    "group": "Other"
+  },
+  {
+    "id": "Codeluppi F",
+    "label": "Codeluppi F",
+    "x": 18.7973,
+    "y": 7.8152,
+    "group": "Other"
+  },
+  {
+    "id": "Cois E",
+    "label": "Cois E",
+    "x": -11.2408,
+    "y": -6.8157,
+    "group": "Other"
+  },
+  {
+    "id": "Coleman A",
+    "label": "Coleman A",
+    "x": -6.4248,
+    "y": 9.9461,
+    "group": "Other"
+  },
+  {
+    "id": "Colombini S",
+    "label": "Colombini S",
+    "x": 2.0107,
+    "y": -1.5091,
+    "group": "CAPP"
+  },
+  {
+    "id": "Colovic A",
+    "label": "Colovic A",
+    "x": 10.444,
+    "y": 9.2722,
+    "group": "Other"
+  },
+  {
+    "id": "Comas Herrera A",
+    "label": "Comas Herrera A",
+    "x": -5.9118,
+    "y": 5.1599,
+    "group": "Other"
+  },
+  {
+    "id": "Comitini G",
+    "label": "Comitini G",
+    "x": -2.8704,
+    "y": 11.3492,
+    "group": "Other"
+  },
+  {
+    "id": "Coratza P",
+    "label": "Coratza P",
+    "x": 1.6017,
+    "y": 6.1773,
+    "group": "Other"
+  },
+  {
+    "id": "Corradi S",
+    "label": "Corradi S",
+    "x": 8.1463,
+    "y": -4.7416,
+    "group": "Other"
+  },
+  {
+    "id": "Corrado F",
+    "label": "Corrado F",
+    "x": -2.8663,
+    "y": -1.9083,
+    "group": "Other"
+  },
+  {
+    "id": "Costantini E",
+    "label": "Costantini E",
+    "x": -0.4939,
+    "y": -4.1276,
+    "group": "CAPP"
+  },
+  {
+    "id": "Creola G",
+    "label": "Creola G",
+    "x": 2.8746,
+    "y": 4.4629,
+    "group": "Other"
+  },
+  {
+    "id": "Crichton G",
+    "label": "Crichton G",
+    "x": 19.4417,
+    "y": 1.2952,
+    "group": "Other"
+  },
+  {
+    "id": "Criscenti C",
+    "label": "Criscenti C",
+    "x": -9.1176,
+    "y": -1.0265,
+    "group": "Other"
+  },
+  {
+    "id": "Cristiano G",
+    "label": "Cristiano G",
+    "x": 2.0498,
+    "y": -11.4316,
+    "group": "Other"
+  },
+  {
+    "id": "Cubel E",
+    "label": "Cubel E",
+    "x": 6.7516,
+    "y": 11.3194,
+    "group": "Other"
+  },
+  {
+    "id": "Curry C",
+    "label": "Curry C",
+    "x": -3.4322,
+    "y": 4.2095,
+    "group": "Other"
+  },
+  {
+    "id": "Curtarelli M",
+    "label": "Curtarelli M",
+    "x": -9.5624,
+    "y": 1.6259,
+    "group": "Other"
+  },
+  {
+    "id": "Curzi Y",
+    "label": "Curzi Y",
+    "x": -1.8974,
+    "y": -4.1379,
+    "group": "Other"
+  },
+  {
+    "id": "D'aguanno M",
+    "label": "D'aguanno M",
+    "x": 10.8023,
+    "y": -13.9276,
+    "group": "Other"
+  },
+  {
+    "id": "Dahmen Adkins J",
+    "label": "Dahmen Adkins J",
+    "x": -10.626,
+    "y": 0.7808,
+    "group": "Other"
+  },
+  {
+    "id": "Dall E",
+    "label": "Dall E",
+    "x": 19.4571,
+    "y": 5.7741,
+    "group": "Other"
+  },
+  {
+    "id": "Dalla Zuanna G",
+    "label": "Dalla Zuanna G",
+    "x": 2.681,
+    "y": -10.6534,
+    "group": "Other"
+  },
+  {
+    "id": "Damiani F",
+    "label": "Damiani F",
+    "x": -6.9242,
+    "y": -10.5398,
+    "group": "Other"
+  },
+  {
+    "id": "Damiani P",
+    "label": "Damiani P",
+    "x": -7.5642,
+    "y": -6.9748,
+    "group": "Other"
+  },
+  {
+    "id": "Daolio J",
+    "label": "Daolio J",
+    "x": -1.5984,
+    "y": 10.1385,
+    "group": "Other"
+  },
+  {
+    "id": "Davoli M",
+    "label": "Davoli M",
+    "x": -5.3154,
+    "y": -9.0121,
+    "group": "Other"
+  },
+  {
+    "id": "De Alexandris F",
+    "label": "De Alexandris F",
+    "x": 5.8379,
+    "y": 9.2586,
+    "group": "Other"
+  },
+  {
+    "id": "De Bastiani L",
+    "label": "De Bastiani L",
+    "x": 10.4242,
+    "y": -6.1135,
+    "group": "Other"
+  },
+  {
+    "id": "De Canio F",
+    "label": "De Canio F",
+    "x": 8.431,
+    "y": -5.6454,
+    "group": "Other"
+  },
+  {
+    "id": "De Domenico M",
+    "label": "De Domenico M",
+    "x": 12.7453,
+    "y": 2.9503,
+    "group": "Other"
+  },
+  {
+    "id": "De Girolamo G",
+    "label": "De Girolamo G",
+    "x": 5.1566,
+    "y": 9.6609,
+    "group": "Other"
+  },
+  {
+    "id": "De La Torre E",
+    "label": "De La Torre E",
+    "x": 6.7122,
+    "y": 17.7708,
+    "group": "Other"
+  },
+  {
+    "id": "De Silva M",
+    "label": "De Silva M",
+    "x": 8.8115,
+    "y": 10.5491,
+    "group": "Other"
+  },
+  {
+    "id": "De Smedt L",
+    "label": "De Smedt L",
+    "x": 13.3899,
+    "y": -11.7665,
+    "group": "Other"
+  },
+  {
+    "id": "Di Cristofaro M",
+    "label": "Di Cristofaro M",
+    "x": 11.2244,
+    "y": 6.6527,
+    "group": "Other"
+  },
+  {
+    "id": "Di Tella M",
+    "label": "Di Tella M",
+    "x": -12.1357,
+    "y": 1.2734,
+    "group": "Other"
+  },
+  {
+    "id": "Di Tommaso M",
+    "label": "Di Tommaso M",
+    "x": -8.8116,
+    "y": 0.6866,
+    "group": "Other"
+  },
+  {
+    "id": "Dobson P",
+    "label": "Dobson P",
+    "x": -0.3188,
+    "y": 9.0697,
+    "group": "Other"
+  },
+  {
+    "id": "Dolce V",
+    "label": "Dolce V",
+    "x": -10.9384,
+    "y": -8.0199,
+    "group": "Other"
+  },
+  {
+    "id": "Donoso Lopez S",
+    "label": "Donoso Lopez S",
+    "x": -8.5511,
+    "y": -1.7593,
+    "group": "Other"
+  },
+  {
+    "id": "Dowding D",
+    "label": "Dowding D",
+    "x": -0.2645,
+    "y": 9.5374,
+    "group": "Other"
+  },
+  {
+    "id": "Drecun A",
+    "label": "Drecun A",
+    "x": -9.5792,
+    "y": -3.5216,
+    "group": "Other"
+  },
+  {
+    "id": "Durand M",
+    "label": "Durand M",
+    "x": -2.4111,
+    "y": 9.849,
+    "group": "Other"
+  },
+  {
+    "id": "Duvvury N",
+    "label": "Duvvury N",
+    "x": -7.1632,
+    "y": -9.052,
+    "group": "Other"
+  },
+  {
+    "id": "Edward Quested T",
+    "label": "Edward Quested T",
+    "x": 18.9267,
+    "y": 1.939,
+    "group": "Other"
+  },
+  {
+    "id": "Entwistle C",
+    "label": "Entwistle C",
+    "x": -0.8271,
+    "y": 10.8338,
+    "group": "Other"
+  },
+  {
+    "id": "Esposito F",
+    "label": "Esposito F",
+    "x": 10.9093,
+    "y": 1.9251,
+    "group": "Other"
+  },
+  {
+    "id": "Espuny Pujol F",
+    "label": "Espuny Pujol F",
+    "x": -0.9422,
+    "y": 7.1089,
+    "group": "Other"
+  },
+  {
+    "id": "Fabbri T",
+    "label": "Fabbri T",
+    "x": -1.6135,
+    "y": -5.2307,
+    "group": "Other"
+  },
+  {
+    "id": "Facchinetti",
+    "label": "Facchinetti",
+    "x": -3.6767,
+    "y": -1.0598,
+    "group": "Other"
+  },
+  {
+    "id": "Facchinetti G",
+    "label": "Facchinetti G",
+    "x": -1.9939,
+    "y": -0.1026,
+    "group": "CAPP"
+  },
+  {
+    "id": "Faivre Finn C",
+    "label": "Faivre Finn C",
+    "x": -1.0076,
+    "y": 8.2024,
+    "group": "Other"
+  },
+  {
+    "id": "Falcao Casaca S",
+    "label": "Falcao Casaca S",
+    "x": -9.3494,
+    "y": -9.6188,
+    "group": "Other"
+  },
+  {
+    "id": "Fareri S",
+    "label": "Fareri S",
+    "x": 5.2065,
+    "y": -7.6259,
+    "group": "Other"
+  },
+  {
+    "id": "Fassio C",
+    "label": "Fassio C",
+    "x": 7.2466,
+    "y": 17.7063,
+    "group": "Other"
+  },
+  {
+    "id": "Favaro D",
+    "label": "Favaro D",
+    "x": -11.8776,
+    "y": -4.853,
+    "group": "Other"
+  },
+  {
+    "id": "Federica R",
+    "label": "Federica R",
+    "x": 10.6711,
+    "y": 5.433,
+    "group": "Other"
+  },
+  {
+    "id": "Ferrari A",
+    "label": "Ferrari A",
+    "x": 1.4723,
+    "y": 4.3772,
+    "group": "Other"
+  },
+  {
+    "id": "Ferrari D",
+    "label": "Ferrari D",
+    "x": 2.1475,
+    "y": 5.6315,
+    "group": "Other"
+  },
+  {
+    "id": "Ferrari E",
+    "label": "Ferrari E",
+    "x": 1.4705,
+    "y": 5.5886,
+    "group": "Other"
+  },
+  {
+    "id": "Ferrari L",
+    "label": "Ferrari L",
+    "x": 18.9323,
+    "y": -0.4781,
+    "group": "Other"
+  },
+  {
+    "id": "Ferrari S",
+    "label": "Ferrari S",
+    "x": -12.9353,
+    "y": -0.7637,
+    "group": "Other"
+  },
+  {
+    "id": "Ferretti A",
+    "label": "Ferretti A",
+    "x": -10.6254,
+    "y": -8.4781,
+    "group": "Other"
+  },
+  {
+    "id": "Ferretti F",
+    "label": "Ferretti F",
+    "x": 9.7594,
+    "y": -2.3538,
+    "group": "Other"
+  },
+  {
+    "id": "Ferretti R",
+    "label": "Ferretti R",
+    "x": 14.3721,
+    "y": -7.9678,
+    "group": "Other"
+  },
+  {
+    "id": "Filippini T",
+    "label": "Filippini T",
+    "x": 2.7494,
+    "y": 7.0161,
+    "group": "Other"
+  },
+  {
+    "id": "Fiorani G",
+    "label": "Fiorani G",
+    "x": 4.641,
+    "y": -0.9966,
+    "group": "CAPP"
+  },
+  {
+    "id": "Fiordelmondo V",
+    "label": "Fiordelmondo V",
+    "x": 9.4728,
+    "y": 9.0032,
+    "group": "Other"
+  },
+  {
+    "id": "Fioretti E",
+    "label": "Fioretti E",
+    "x": 1.5672,
+    "y": 3.7983,
+    "group": "Other"
+  },
+  {
+    "id": "Fisher R",
+    "label": "Fisher R",
+    "x": -3.7927,
+    "y": 9.159,
+    "group": "Other"
+  },
+  {
+    "id": "Flisi S",
+    "label": "Flisi S",
+    "x": -1.054,
+    "y": 10.3853,
+    "group": "Other"
+  },
+  {
+    "id": "Flori E",
+    "label": "Flori E",
+    "x": 5.4376,
+    "y": -8.3392,
+    "group": "Other"
+  },
+  {
+    "id": "Fogli A",
+    "label": "Fogli A",
+    "x": 6.6646,
+    "y": 10.5518,
+    "group": "Other"
+  },
+  {
+    "id": "Fontana D",
+    "label": "Fontana D",
+    "x": 6.722,
+    "y": -10.1579,
+    "group": "Other"
+  },
+  {
+    "id": "Fontana M",
+    "label": "Fontana M",
+    "x": 11.9776,
+    "y": 5.1299,
+    "group": "Other"
+  },
+  {
+    "id": "Franzini M",
+    "label": "Franzini M",
+    "x": 8.0118,
+    "y": -15.7828,
+    "group": "Other"
+  },
+  {
+    "id": "Fregni C",
+    "label": "Fregni C",
+    "x": 3.4831,
+    "y": -4.3433,
+    "group": "Other"
+  },
+  {
+    "id": "Freilone F",
+    "label": "Freilone F",
+    "x": -10.0482,
+    "y": 1.1745,
+    "group": "Other"
+  },
+  {
+    "id": "Freitas I",
+    "label": "Freitas I",
+    "x": 14.986,
+    "y": 14.1811,
+    "group": "Other"
+  },
+  {
+    "id": "Freo M",
+    "label": "Freo M",
+    "x": 7.7273,
+    "y": 9.8908,
+    "group": "Other"
+  },
+  {
+    "id": "Frisch C",
+    "label": "Frisch C",
+    "x": 12.4846,
+    "y": 3.7948,
+    "group": "Other"
+  },
+  {
+    "id": "Fuscaldo M",
+    "label": "Fuscaldo M",
+    "x": -5.0167,
+    "y": 0.2346,
+    "group": "Other"
+  },
+  {
+    "id": "Fusco A",
+    "label": "Fusco A",
+    "x": 7.0359,
+    "y": -16.1214,
+    "group": "Other"
+  },
+  {
+    "id": "G C)",
+    "label": "G C)",
+    "x": -1.3174,
+    "y": 4.2478,
+    "group": "Other"
+  },
+  {
+    "id": "Gale C",
+    "label": "Gale C",
+    "x": -4.1594,
+    "y": 9.697,
+    "group": "Other"
+  },
+  {
+    "id": "Galli C",
+    "label": "Galli C",
+    "x": -12.7496,
+    "y": -2.0611,
+    "group": "Other"
+  },
+  {
+    "id": "Gallo G",
+    "label": "Gallo G",
+    "x": 7.0504,
+    "y": -8.2799,
+    "group": "CAPP"
+  },
+  {
+    "id": "Galvez Munoz L",
+    "label": "Galvez Munoz L",
+    "x": -10.8307,
+    "y": 2.1508,
+    "group": "Other"
+  },
+  {
+    "id": "Gamberini M",
+    "label": "Gamberini M",
+    "x": -9.3234,
+    "y": -7.8981,
+    "group": "Other"
+  },
+  {
+    "id": "Garcia E",
+    "label": "Garcia E",
+    "x": 7.5431,
+    "y": 10.7341,
+    "group": "Other"
+  },
+  {
+    "id": "Garcia Fernandez R",
+    "label": "Garcia Fernandez R",
+    "x": -9.7655,
+    "y": -6.178,
+    "group": "Other"
+  },
+  {
+    "id": "Gargano G",
+    "label": "Gargano G",
+    "x": -4.0256,
+    "y": 7.4519,
+    "group": "Other"
+  },
+  {
+    "id": "Garibaldo F",
+    "label": "Garibaldo F",
+    "x": 7.3677,
+    "y": 9.2176,
+    "group": "Other"
+  },
+  {
+    "id": "Garofoli G",
+    "label": "Garofoli G",
+    "x": 5.4507,
+    "y": -6.2183,
+    "group": "Other"
+  },
+  {
+    "id": "Gatti M",
+    "label": "Gatti M",
+    "x": 1.9556,
+    "y": 7.1914,
+    "group": "Other"
+  },
+  {
+    "id": "Geuna A",
+    "label": "Geuna A",
+    "x": 11.4399,
+    "y": 16.4674,
+    "group": "Other"
+  },
+  {
+    "id": "Ghinoi A",
+    "label": "Ghinoi A",
+    "x": 2.8644,
+    "y": 3.748,
+    "group": "Other"
+  },
+  {
+    "id": "Ghinoi S",
+    "label": "Ghinoi S",
+    "x": 8.0094,
+    "y": 8.7433,
+    "group": "CAPP"
+  },
+  {
+    "id": "Ghislieri C",
+    "label": "Ghislieri C",
+    "x": -8.8493,
+    "y": -4.69,
+    "group": "Other"
+  },
+  {
+    "id": "Ghorbankhani M",
+    "label": "Ghorbankhani M",
+    "x": 13.8893,
+    "y": 14.9438,
+    "group": "Other"
+  },
+  {
+    "id": "Ghose R",
+    "label": "Ghose R",
+    "x": 9.1026,
+    "y": 9.8365,
+    "group": "Other"
+  },
+  {
+    "id": "Giacobazzi D",
+    "label": "Giacobazzi D",
+    "x": 8.8572,
+    "y": -6.0886,
+    "group": "Other"
+  },
+  {
+    "id": "Giannini A",
+    "label": "Giannini A",
+    "x": -10.5601,
+    "y": -3.3485,
+    "group": "Other"
+  },
+  {
+    "id": "Giannini S",
+    "label": "Giannini S",
+    "x": -0.1031,
+    "y": -12.8288,
+    "group": "CAPP"
+  },
+  {
+    "id": "Giarda E",
+    "label": "Giarda E",
+    "x": -0.63,
+    "y": -13.149,
+    "group": "Other"
+  },
+  {
+    "id": "Giardini F",
+    "label": "Giardini F",
+    "x": 18.1512,
+    "y": 7.8902,
+    "group": "Other"
+  },
+  {
+    "id": "Giardino R",
+    "label": "Giardino R",
+    "x": 5.5279,
+    "y": 0.2706,
+    "group": "Other"
+  },
+  {
+    "id": "Ginocchio D",
+    "label": "Ginocchio D",
+    "x": -9.4933,
+    "y": 0.3232,
+    "group": "Other"
+  },
+  {
+    "id": "Ginzburg A",
+    "label": "Ginzburg A",
+    "x": 6.535,
+    "y": -9.1126,
+    "group": "Other"
+  },
+  {
+    "id": "Giordano C",
+    "label": "Giordano C",
+    "x": 19.9195,
+    "y": 2.5526,
+    "group": "Other"
+  },
+  {
+    "id": "Giorgi A",
+    "label": "Giorgi A",
+    "x": 12.446,
+    "y": 2.0069,
+    "group": "Other"
+  },
+  {
+    "id": "Giovannetti E",
+    "label": "Giovannetti E",
+    "x": 3.0828,
+    "y": 2.0854,
+    "group": "CAPP"
+  },
+  {
+    "id": "Giovannini D",
+    "label": "Giovannini D",
+    "x": -7.9676,
+    "y": -8.8497,
+    "group": "Other"
+  },
+  {
+    "id": "Girolamo G",
+    "label": "Girolamo G",
+    "x": 2.3244,
+    "y": 3.247,
+    "group": "Other"
+  },
+  {
+    "id": "Gisella F",
+    "label": "Gisella F",
+    "x": 10.7234,
+    "y": -5.6518,
+    "group": "Other"
+  },
+  {
+    "id": "Giuntini A",
+    "label": "Giuntini A",
+    "x": -5.9119,
+    "y": -5.7232,
+    "group": "Other"
+  },
+  {
+    "id": "Giuseppe F",
+    "label": "Giuseppe F",
+    "x": 5.6517,
+    "y": -10.5258,
+    "group": "Other"
+  },
+  {
+    "id": "Gjinaj A",
+    "label": "Gjinaj A",
+    "x": 7.2576,
+    "y": 11.1759,
+    "group": "Other"
+  },
+  {
+    "id": "Gokhberg L",
+    "label": "Gokhberg L",
+    "x": 5.9458,
+    "y": 10.0926,
+    "group": "Other"
+  },
+  {
+    "id": "Gori C",
+    "label": "Gori C",
+    "x": 1.6019,
+    "y": -2.4842,
+    "group": "Other"
+  },
+  {
+    "id": "Graham M",
+    "label": "Graham M",
+    "x": -5.427,
+    "y": 8.9161,
+    "group": "Other"
+  },
+  {
+    "id": "Grainger M",
+    "label": "Grainger M",
+    "x": 20.0548,
+    "y": 4.2479,
+    "group": "Other"
+  },
+  {
+    "id": "Granaglia E",
+    "label": "Granaglia E",
+    "x": 3.7857,
+    "y": -7.8594,
+    "group": "Other"
+  },
+  {
+    "id": "Granato S",
+    "label": "Granato S",
+    "x": 12.6488,
+    "y": -11.7551,
+    "group": "Other"
+  },
+  {
+    "id": "Grandi A",
+    "label": "Grandi A",
+    "x": -8.3262,
+    "y": 0.4839,
+    "group": "Other"
+  },
+  {
+    "id": "Grappi D",
+    "label": "Grappi D",
+    "x": 9.5845,
+    "y": -7.3218,
+    "group": "Other"
+  },
+  {
+    "id": "Grassi G",
+    "label": "Grassi G",
+    "x": -6.2708,
+    "y": 8.5256,
+    "group": "Other"
+  },
+  {
+    "id": "Gstrein M",
+    "label": "Gstrein M",
+    "x": -11.6321,
+    "y": 1.739,
+    "group": "Other"
+  },
+  {
+    "id": "Gualandri E",
+    "label": "Gualandri E",
+    "x": 5.2109,
+    "y": 0.3979,
+    "group": "Other"
+  },
+  {
+    "id": "Guerra F",
+    "label": "Guerra F",
+    "x": 10.7622,
+    "y": 1.0097,
+    "group": "Other"
+  },
+  {
+    "id": "Guerra M",
+    "label": "Guerra M",
+    "x": 2.0569,
+    "y": -7.4534,
+    "group": "CAPP"
+  },
+  {
+    "id": "Guidetti G",
+    "label": "Guidetti G",
+    "x": -12.5327,
+    "y": -5.2493,
+    "group": "Other"
+  },
+  {
+    "id": "Guido N",
+    "label": "Guido N",
+    "x": -12.0666,
+    "y": -1.5449,
+    "group": "Other"
+  },
+  {
+    "id": "Gunluk Senesen G",
+    "label": "Gunluk Senesen G",
+    "x": -12.443,
+    "y": -4.7919,
+    "group": "Other"
+  },
+  {
+    "id": "Gurisatti P",
+    "label": "Gurisatti P",
+    "x": 8.818,
+    "y": 17.4362,
+    "group": "Other"
+  },
+  {
+    "id": "Habluetzel A",
+    "label": "Habluetzel A",
+    "x": 11.8176,
+    "y": 0.2364,
+    "group": "Other"
+  },
+  {
+    "id": "Hall I",
+    "label": "Hall I",
+    "x": -7.321,
+    "y": 5.3091,
+    "group": "Other"
+  },
+  {
+    "id": "Hammond J",
+    "label": "Hammond J",
+    "x": -6.7523,
+    "y": 4.1491,
+    "group": "Other"
+  },
+  {
+    "id": "Hancock R",
+    "label": "Hancock R",
+    "x": -2.822,
+    "y": 6.4778,
+    "group": "Other"
+  },
+  {
+    "id": "Harmer R",
+    "label": "Harmer R",
+    "x": -7.2199,
+    "y": 9.5046,
+    "group": "Other"
+  },
+  {
+    "id": "Hofer H",
+    "label": "Hofer H",
+    "x": 1.9184,
+    "y": -9.2437,
+    "group": "Other"
+  },
+  {
+    "id": "Hughes G",
+    "label": "Hughes G",
+    "x": 10.0517,
+    "y": -7.0849,
+    "group": "Other"
+  },
+  {
+    "id": "Hviid M",
+    "label": "Hviid M",
+    "x": -3.3663,
+    "y": 10.3559,
+    "group": "Other"
+  },
+  {
+    "id": "Hyee R",
+    "label": "Hyee R",
+    "x": 3.9801,
+    "y": -11.0951,
+    "group": "Other"
+  },
+  {
+    "id": "Iacuzio L",
+    "label": "Iacuzio L",
+    "x": 3.6034,
+    "y": 4.778,
+    "group": "Other"
+  },
+  {
+    "id": "Ingusci E",
+    "label": "Ingusci E",
+    "x": -8.2751,
+    "y": -7.1505,
+    "group": "Other"
+  },
+  {
+    "id": "Iseppi R",
+    "label": "Iseppi R",
+    "x": 1.8521,
+    "y": 3.3126,
+    "group": "Other"
+  },
+  {
+    "id": "Ius M",
+    "label": "Ius M",
+    "x": 10.3291,
+    "y": -5.2008,
+    "group": "Other"
+  },
+  {
+    "id": "James Grainger M",
+    "label": "James Grainger M",
+    "x": 20.1201,
+    "y": 3.5589,
+    "group": "Other"
+  },
+  {
+    "id": "James S",
+    "label": "James S",
+    "x": -7.8013,
+    "y": 6.5426,
+    "group": "Other"
+  },
+  {
+    "id": "Jessoula M",
+    "label": "Jessoula M",
+    "x": 12.216,
+    "y": -12.9805,
+    "group": "Other"
+  },
+  {
+    "id": "Jones K",
+    "label": "Jones K",
+    "x": -6.2571,
+    "y": 4.0423,
+    "group": "Other"
+  },
+  {
+    "id": "Kandemier C",
+    "label": "Kandemier C",
+    "x": 18.7518,
+    "y": 1.1675,
+    "group": "Other"
+  },
+  {
+    "id": "Kaulard A",
+    "label": "Kaulard A",
+    "x": 8.1954,
+    "y": 10.3937,
+    "group": "Other"
+  },
+  {
+    "id": "King D",
+    "label": "King D",
+    "x": -3.4215,
+    "y": 5.4741,
+    "group": "Other"
+  },
+  {
+    "id": "Kitagawa F",
+    "label": "Kitagawa F",
+    "x": 10.1541,
+    "y": 16.9137,
+    "group": "Other"
+  },
+  {
+    "id": "Klatzer E",
+    "label": "Klatzer E",
+    "x": -5.6008,
+    "y": -8.5546,
+    "group": "Other"
+  },
+  {
+    "id": "Kocollari U",
+    "label": "Kocollari U",
+    "x": -10.7017,
+    "y": -0.7009,
+    "group": "Other"
+  },
+  {
+    "id": "Kontopantelis E",
+    "label": "Kontopantelis E",
+    "x": -3.8144,
+    "y": 4.7166,
+    "group": "Other"
+  },
+  {
+    "id": "Koseoglu N",
+    "label": "Koseoglu N",
+    "x": 19.3072,
+    "y": 0.6655,
+    "group": "Other"
+  },
+  {
+    "id": "Krishnakumar J",
+    "label": "Krishnakumar J",
+    "x": -4.7237,
+    "y": -4.5855,
+    "group": "Other"
+  },
+  {
+    "id": "Labory S",
+    "label": "Labory S",
+    "x": 5.8214,
+    "y": -6.9074,
+    "group": "Other"
+  },
+  {
+    "id": "Landi A",
+    "label": "Landi A",
+    "x": 14.5941,
+    "y": -7.5345,
+    "group": "Other"
+  },
+  {
+    "id": "Lanzi D",
+    "label": "Lanzi D",
+    "x": -8.6202,
+    "y": -2.8394,
+    "group": "Other"
+  },
+  {
+    "id": "Latusi S",
+    "label": "Latusi S",
+    "x": 6.892,
+    "y": -7.2095,
+    "group": "Other"
+  },
+  {
+    "id": "Lau Y",
+    "label": "Lau Y",
+    "x": -8.7093,
+    "y": 5.586,
+    "group": "Other"
+  },
+  {
+    "id": "Lausi G",
+    "label": "Lausi G",
+    "x": -13.0025,
+    "y": -2.619,
+    "group": "Other"
+  },
+  {
+    "id": "Lawson C",
+    "label": "Lawson C",
+    "x": 9.7951,
+    "y": 17.2485,
+    "group": "Other"
+  },
+  {
+    "id": "Leime A",
+    "label": "Leime A",
+    "x": -10.4924,
+    "y": 1.8154,
+    "group": "Other"
+  },
+  {
+    "id": "Lemmi A",
+    "label": "Lemmi A",
+    "x": -8.2895,
+    "y": 5.0504,
+    "group": "Other"
+  },
+  {
+    "id": "Leveque F",
+    "label": "Leveque F",
+    "x": 4.7104,
+    "y": 11.9239,
+    "group": "Other"
+  },
+  {
+    "id": "Liberati P",
+    "label": "Liberati P",
+    "x": -2.5269,
+    "y": -13.2035,
+    "group": "Other"
+  },
+  {
+    "id": "Livan G",
+    "label": "Livan G",
+    "x": 17.2031,
+    "y": 9.9608,
+    "group": "Other"
+  },
+  {
+    "id": "Llorca Rodriguez C",
+    "label": "Llorca Rodriguez C",
+    "x": -11.6843,
+    "y": -3.7165,
+    "group": "Other"
+  },
+  {
+    "id": "Lodigiani R",
+    "label": "Lodigiani R",
+    "x": 12.7285,
+    "y": -10.9205,
+    "group": "Other"
+  },
+  {
+    "id": "Logatcheva K",
+    "label": "Logatcheva K",
+    "x": 18.4221,
+    "y": 7.2309,
+    "group": "Other"
+  },
+  {
+    "id": "Lorenzini M",
+    "label": "Lorenzini M",
+    "x": 4.0953,
+    "y": -8.5624,
+    "group": "Other"
+  },
+  {
+    "id": "Loretz S",
+    "label": "Loretz S",
+    "x": 1.4947,
+    "y": -11.4913,
+    "group": "Other"
+  },
+  {
+    "id": "Lotti A",
+    "label": "Lotti A",
+    "x": -8.7718,
+    "y": -9.3888,
+    "group": "Other"
+  },
+  {
+    "id": "Luciani C",
+    "label": "Luciani C",
+    "x": 12.0962,
+    "y": 1.1097,
+    "group": "Other"
+  },
+  {
+    "id": "Lucifora C",
+    "label": "Lucifora C",
+    "x": 1.5873,
+    "y": -8.1711,
+    "group": "Other"
+  },
+  {
+    "id": "Lugli C",
+    "label": "Lugli C",
+    "x": 1.7798,
+    "y": 6.7341,
+    "group": "Other"
+  },
+  {
+    "id": "Lugli L",
+    "label": "Lugli L",
+    "x": -7.5638,
+    "y": -4.826,
+    "group": "Other"
+  },
+  {
+    "id": "Luheshi S",
+    "label": "Luheshi S",
+    "x": -4.527,
+    "y": 3.957,
+    "group": "Other"
+  },
+  {
+    "id": "Lusignoli L",
+    "label": "Lusignoli L",
+    "x": 2.0816,
+    "y": -10.2097,
+    "group": "Other"
+  },
+  {
+    "id": "Maccagnan",
+    "label": "Maccagnan",
+    "x": -5.0949,
+    "y": 0.7638,
+    "group": "Other"
+  },
+  {
+    "id": "Maccagnan A",
+    "label": "Maccagnan A",
+    "x": -7.4816,
+    "y": -2.8609,
+    "group": "Other"
+  },
+  {
+    "id": "Maddalena D",
+    "label": "Maddalena D",
+    "x": -6.337,
+    "y": -6.4704,
+    "group": "Other"
+  },
+  {
+    "id": "Maiani B",
+    "label": "Maiani B",
+    "x": -2.95,
+    "y": -2.7249,
+    "group": "Other"
+  },
+  {
+    "id": "Maino F",
+    "label": "Maino F",
+    "x": 12.8845,
+    "y": -12.4221,
+    "group": "Other"
+  },
+  {
+    "id": "Malisauskaite G",
+    "label": "Malisauskaite G",
+    "x": -8.6363,
+    "y": 7.3455,
+    "group": "Other"
+  },
+  {
+    "id": "Malley J",
+    "label": "Malley J",
+    "x": -4.8722,
+    "y": 8.5984,
+    "group": "Other"
+  },
+  {
+    "id": "Mamas M",
+    "label": "Mamas M",
+    "x": -2.9547,
+    "y": 9.6367,
+    "group": "Other"
+  },
+  {
+    "id": "Mancini G",
+    "label": "Mancini G",
+    "x": -1.1626,
+    "y": -12.321,
+    "group": "Other"
+  },
+  {
+    "id": "Mangioni G",
+    "label": "Mangioni G",
+    "x": 12.4701,
+    "y": 5.6591,
+    "group": "Other"
+  },
+  {
+    "id": "Manuti A",
+    "label": "Manuti A",
+    "x": -12.1419,
+    "y": -5.9836,
+    "group": "Other"
+  },
+  {
+    "id": "Marano S",
+    "label": "Marano S",
+    "x": -3.2134,
+    "y": 2.8318,
+    "group": "Other"
+  },
+  {
+    "id": "Marcassa S",
+    "label": "Marcassa S",
+    "x": -11.2134,
+    "y": -2.1125,
+    "group": "Other"
+  },
+  {
+    "id": "Marchi G",
+    "label": "Marchi G",
+    "x": 3.0587,
+    "y": -6.7599,
+    "group": "Other"
+  },
+  {
+    "id": "Marcuzzo C",
+    "label": "Marcuzzo C",
+    "x": -1.3896,
+    "y": -2.5629,
+    "group": "Other"
+  },
+  {
+    "id": "Maria B",
+    "label": "Maria B",
+    "x": 8.4701,
+    "y": 17.5121,
+    "group": "Other"
+  },
+  {
+    "id": "Maria Bodas Freitas I",
+    "label": "Maria Bodas Freitas I",
+    "x": 7.9703,
+    "y": 17.6135,
+    "group": "Other"
+  },
+  {
+    "id": "Maria Rosaria F",
+    "label": "Maria Rosaria F",
+    "x": 21.9021,
+    "y": -10.8114,
+    "group": "Other"
+  },
+  {
+    "id": "Mariani M",
+    "label": "Mariani M",
+    "x": 5.5446,
+    "y": 5.9048,
+    "group": "Other"
+  },
+  {
+    "id": "Martin A",
+    "label": "Martin A",
+    "x": -7.3922,
+    "y": 7.2677,
+    "group": "Other"
+  },
+  {
+    "id": "Martin G",
+    "label": "Martin G",
+    "x": -5.5922,
+    "y": 6.5664,
+    "group": "Other"
+  },
+  {
+    "id": "Martinelli E",
+    "label": "Martinelli E",
+    "x": 6.0396,
+    "y": 1.9867,
+    "group": "Other"
+  },
+  {
+    "id": "Marzadro S",
+    "label": "Marzadro S",
+    "x": -6.7412,
+    "y": 8.9719,
+    "group": "Other"
+  },
+  {
+    "id": "Marzocchi C",
+    "label": "Marzocchi C",
+    "x": 12.3336,
+    "y": 16.2076,
+    "group": "Other"
+  },
+  {
+    "id": "Masci G",
+    "label": "Masci G",
+    "x": 4.4171,
+    "y": 11.58,
+    "group": "Other"
+  },
+  {
+    "id": "Masotti M",
+    "label": "Masotti M",
+    "x": 19.0883,
+    "y": 2.5722,
+    "group": "Other"
+  },
+  {
+    "id": "Massou E",
+    "label": "Massou E",
+    "x": -8.2757,
+    "y": 8.1669,
+    "group": "Other"
+  },
+  {
+    "id": "Mastroleo",
+    "label": "Mastroleo",
+    "x": -4.4761,
+    "y": 0.1029,
+    "group": "Other"
+  },
+  {
+    "id": "Mastroleo G",
+    "label": "Mastroleo G",
+    "x": -1.8462,
+    "y": -2.857,
+    "group": "Other"
+  },
+  {
+    "id": "Mattei G",
+    "label": "Mattei G",
+    "x": -9.5028,
+    "y": -9.2069,
+    "group": "Other"
+  },
+  {
+    "id": "Mattioli M",
+    "label": "Mattioli M",
+    "x": 10.8462,
+    "y": 8.1949,
+    "group": "Other"
+  },
+  {
+    "id": "Mauro M",
+    "label": "Mauro M",
+    "x": 8.9015,
+    "y": 8.3263,
+    "group": "Other"
+  },
+  {
+    "id": "Mazzaferro C",
+    "label": "Mazzaferro C",
+    "x": -0.2581,
+    "y": -1.1618,
+    "group": "CAPP"
+  },
+  {
+    "id": "Mazzotta F",
+    "label": "Mazzotta F",
+    "x": 7.4879,
+    "y": -9.6497,
+    "group": "Other"
+  },
+  {
+    "id": "Mecugni D",
+    "label": "Mecugni D",
+    "x": -7.5384,
+    "y": -10.4283,
+    "group": "Other"
+  },
+  {
+    "id": "Mehmet",
+    "label": "Mehmet",
+    "x": 4.0303,
+    "y": 11.5694,
+    "group": "Other"
+  },
+  {
+    "id": "Meissner D",
+    "label": "Meissner D",
+    "x": 8.4142,
+    "y": 7.092,
+    "group": "Other"
+  },
+  {
+    "id": "Menghinello S",
+    "label": "Menghinello S",
+    "x": 9.5835,
+    "y": -5.1155,
+    "group": "Other"
+  },
+  {
+    "id": "Mengoli P",
+    "label": "Mengoli P",
+    "x": 7.0802,
+    "y": 7.7302,
+    "group": "CAPP"
+  },
+  {
+    "id": "Merzagora I",
+    "label": "Merzagora I",
+    "x": -11.04,
+    "y": 1.5113,
+    "group": "Other"
+  },
+  {
+    "id": "Mesini D",
+    "label": "Mesini D",
+    "x": 1.7419,
+    "y": -10.6818,
+    "group": "Other"
+  },
+  {
+    "id": "Milani P",
+    "label": "Milani P",
+    "x": 7.8648,
+    "y": -4.0746,
+    "group": "Other"
+  },
+  {
+    "id": "Mimmi S",
+    "label": "Mimmi S",
+    "x": -6.3615,
+    "y": -1.0228,
+    "group": "Other"
+  },
+  {
+    "id": "Minerva T",
+    "label": "Minerva T",
+    "x": 7.7455,
+    "y": -5.8095,
+    "group": "Other"
+  },
+  {
+    "id": "Mingtang L",
+    "label": "Mingtang L",
+    "x": 17.9159,
+    "y": 8.5049,
+    "group": "Other"
+  },
+  {
+    "id": "Molinari M",
+    "label": "Molinari M",
+    "x": -12.8031,
+    "y": -3.7253,
+    "group": "Other"
+  },
+  {
+    "id": "Monti M",
+    "label": "Monti M",
+    "x": 2.9433,
+    "y": 5.1951,
+    "group": "Other"
+  },
+  {
+    "id": "Morciano M",
+    "label": "Morciano M",
+    "x": -1.5726,
+    "y": 3.4505,
+    "group": "CAPP"
+  },
+  {
+    "id": "Morlini I",
+    "label": "Morlini I",
+    "x": 3.0909,
+    "y": 3.0956,
+    "group": "Other"
+  },
+  {
+    "id": "Moss C",
+    "label": "Moss C",
+    "x": -5.0201,
+    "y": 10.7424,
+    "group": "Other"
+  },
+  {
+    "id": "Mullbacher S",
+    "label": "Mullbacher S",
+    "x": 1.8257,
+    "y": -12.1742,
+    "group": "Other"
+  },
+  {
+    "id": "Munford L",
+    "label": "Munford L",
+    "x": -8.0399,
+    "y": 7.4861,
+    "group": "Other"
+  },
+  {
+    "id": "Mungai F",
+    "label": "Mungai F",
+    "x": -6.098,
+    "y": -1.6618,
+    "group": "Other"
+  },
+  {
+    "id": "Murat M",
+    "label": "Murat M",
+    "x": -1.2596,
+    "y": -4.6038,
+    "group": "Other"
+  },
+  {
+    "id": "Murphy M",
+    "label": "Murphy M",
+    "x": -4.9427,
+    "y": 7.0565,
+    "group": "Other"
+  },
+  {
+    "id": "Mussida C",
+    "label": "Mussida C",
+    "x": -6.3794,
+    "y": -10.142,
+    "group": "Other"
+  },
+  {
+    "id": "Musumeci R",
+    "label": "Musumeci R",
+    "x": -11.24,
+    "y": -2.8951,
+    "group": "Other"
+  },
+  {
+    "id": "Muzzioli S",
+    "label": "Muzzioli S",
+    "x": -8.4747,
+    "y": -10.0872,
+    "group": "Other"
+  },
+  {
+    "id": "Naciti V",
+    "label": "Naciti V",
+    "x": -8.3862,
+    "y": -0.2706,
+    "group": "Other"
+  },
+  {
+    "id": "Nakamura R",
+    "label": "Nakamura R",
+    "x": -4.6121,
+    "y": 11.0173,
+    "group": "Other"
+  },
+  {
+    "id": "Natali A",
+    "label": "Natali A",
+    "x": 6.285,
+    "y": 1.6713,
+    "group": "Other"
+  },
+  {
+    "id": "Negri I",
+    "label": "Negri I",
+    "x": -6.0966,
+    "y": -9.8696,
+    "group": "Other"
+  },
+  {
+    "id": "Negro P",
+    "label": "Negro P",
+    "x": 1.2467,
+    "y": -9.6515,
+    "group": "Other"
+  },
+  {
+    "id": "Neil E",
+    "label": "Neil E",
+    "x": -6.6613,
+    "y": 5.0172,
+    "group": "Other"
+  },
+  {
+    "id": "Nelson P",
+    "label": "Nelson P",
+    "x": -4.9149,
+    "y": 9.5516,
+    "group": "Other"
+  },
+  {
+    "id": "Neri L",
+    "label": "Neri L",
+    "x": -8.957,
+    "y": 6.1513,
+    "group": "Other"
+  },
+  {
+    "id": "Nicaise I",
+    "label": "Nicaise I",
+    "x": 11.8942,
+    "y": -12.0262,
+    "group": "Other"
+  },
+  {
+    "id": "Nicoli C",
+    "label": "Nicoli C",
+    "x": 8.9495,
+    "y": -8.3579,
+    "group": "Other"
+  },
+  {
+    "id": "Nora A",
+    "label": "Nora A",
+    "x": -7.5411,
+    "y": -8.2153,
+    "group": "Other"
+  },
+  {
+    "id": "Nussbaum C",
+    "label": "Nussbaum C",
+    "x": -5.5589,
+    "y": 10.6707,
+    "group": "Other"
+  },
+  {
+    "id": "Olivieri A",
+    "label": "Olivieri A",
+    "x": -4.4215,
+    "y": -12.341,
+    "group": "Other"
+  },
+  {
+    "id": "Olland F",
+    "label": "Olland F",
+    "x": 11.5732,
+    "y": 2.1923,
+    "group": "Other"
+  },
+  {
+    "id": "Onofri P",
+    "label": "Onofri P",
+    "x": -1.3425,
+    "y": -9.1438,
+    "group": "Other"
+  },
+  {
+    "id": "Paba S",
+    "label": "Paba S",
+    "x": 4.6967,
+    "y": -9.2865,
+    "group": "Other"
+  },
+  {
+    "id": "Pacifici L",
+    "label": "Pacifici L",
+    "x": 11.1003,
+    "y": 1.4578,
+    "group": "Other"
+  },
+  {
+    "id": "Pacifico D",
+    "label": "Pacifico D",
+    "x": -1.2623,
+    "y": -10.452,
+    "group": "CAPP"
+  },
+  {
+    "id": "Paganelli M",
+    "label": "Paganelli M",
+    "x": 10.3812,
+    "y": 2.2477,
+    "group": "Other"
+  },
+  {
+    "id": "Pagliacci F",
+    "label": "Pagliacci F",
+    "x": 8.2751,
+    "y": -1.0276,
+    "group": "CAPP"
+  },
+  {
+    "id": "Paladini S",
+    "label": "Paladini S",
+    "x": 14.8315,
+    "y": 13.4676,
+    "group": "Other"
+  },
+  {
+    "id": "Palandri L",
+    "label": "Palandri L",
+    "x": 3.4204,
+    "y": 5.9857,
+    "group": "Other"
+  },
+  {
+    "id": "Palmirani M",
+    "label": "Palmirani M",
+    "x": 8.9772,
+    "y": 4.6209,
+    "group": "Other"
+  },
+  {
+    "id": "Pancotto F",
+    "label": "Pancotto F",
+    "x": 19.5989,
+    "y": 3.6112,
+    "group": "CAPP"
+  },
+  {
+    "id": "Paola M",
+    "label": "Paola M",
+    "x": 5.1018,
+    "y": 11.6744,
+    "group": "Other"
+  },
+  {
+    "id": "Paterlini S",
+    "label": "Paterlini S",
+    "x": 8.3033,
+    "y": 7.9203,
+    "group": "Other"
+  },
+  {
+    "id": "Patrucco P",
+    "label": "Patrucco P",
+    "x": 11.8798,
+    "y": 16.2352,
+    "group": "Other"
+  },
+  {
+    "id": "Pattarin F",
+    "label": "Pattarin F",
+    "x": 5.0926,
+    "y": -10.0764,
+    "group": "Other"
+  },
+  {
+    "id": "Pattaro A",
+    "label": "Pattaro A",
+    "x": 6.5163,
+    "y": -0.1678,
+    "group": "Other"
+  },
+  {
+    "id": "Pattaro F",
+    "label": "Pattaro F",
+    "x": 9.8593,
+    "y": 3.6395,
+    "group": "Other"
+  },
+  {
+    "id": "Patwardhan S",
+    "label": "Patwardhan S",
+    "x": -7.4401,
+    "y": 8.6077,
+    "group": "Other"
+  },
+  {
+    "id": "Pavolini E",
+    "label": "Pavolini E",
+    "x": 2.4188,
+    "y": -8.5179,
+    "group": "Other"
+  },
+  {
+    "id": "Pavone P",
+    "label": "Pavone P",
+    "x": 7.6886,
+    "y": 3.6457,
+    "group": "CAPP"
+  },
+  {
+    "id": "Pechey R",
+    "label": "Pechey R",
+    "x": -1.0513,
+    "y": 9.5267,
+    "group": "Other"
+  },
+  {
+    "id": "Pedrazzoli A",
+    "label": "Pedrazzoli A",
+    "x": 8.4311,
+    "y": -1.3245,
+    "group": "Other"
+  },
+  {
+    "id": "Pellegrino S",
+    "label": "Pellegrino S",
+    "x": -2.9827,
+    "y": -10.0798,
+    "group": "Other"
+  },
+  {
+    "id": "Peragine V",
+    "label": "Peragine V",
+    "x": -1.9115,
+    "y": -9.961,
+    "group": "Other"
+  },
+  {
+    "id": "Pergetti S",
+    "label": "Pergetti S",
+    "x": 7.0097,
+    "y": -0.2238,
+    "group": "Other"
+  },
+  {
+    "id": "Pertossi P",
+    "label": "Pertossi P",
+    "x": 10.6396,
+    "y": 16.9105,
+    "group": "Other"
+  },
+  {
+    "id": "Petit L",
+    "label": "Petit L",
+    "x": 12.2109,
+    "y": 0.5018,
+    "group": "Other"
+  },
+  {
+    "id": "Petrella A",
+    "label": "Petrella A",
+    "x": 7.5884,
+    "y": -6.6643,
+    "group": "Other"
+  },
+  {
+    "id": "Piazzi V",
+    "label": "Piazzi V",
+    "x": 11.6196,
+    "y": 0.9994,
+    "group": "Other"
+  },
+  {
+    "id": "Picardi I",
+    "label": "Picardi I",
+    "x": -12.7834,
+    "y": -4.094,
+    "group": "Other"
+  },
+  {
+    "id": "Picchio A",
+    "label": "Picchio A",
+    "x": -3.8907,
+    "y": 0.9478,
+    "group": "CAPP"
+  },
+  {
+    "id": "Piccolo D",
+    "label": "Piccolo D",
+    "x": -6.6913,
+    "y": -0.2286,
+    "group": "Other"
+  },
+  {
+    "id": "Pickard L",
+    "label": "Pickard L",
+    "x": -7.3049,
+    "y": 4.5796,
+    "group": "Other"
+  },
+  {
+    "id": "Pierangeli F",
+    "label": "Pierangeli F",
+    "x": 18.2217,
+    "y": 8.956,
+    "group": "Other"
+  },
+  {
+    "id": "Pierce M",
+    "label": "Pierce M",
+    "x": -1.9283,
+    "y": 5.6257,
+    "group": "Other"
+  },
+  {
+    "id": "Pillo F",
+    "label": "Pillo F",
+    "x": -4.551,
+    "y": -7.9959,
+    "group": "Other"
+  },
+  {
+    "id": "Pin P",
+    "label": "Pin P",
+    "x": 18.9468,
+    "y": -0.9992,
+    "group": "Other"
+  },
+  {
+    "id": "Pirani E",
+    "label": "Pirani E",
+    "x": 5.4563,
+    "y": 10.5643,
+    "group": "Other"
+  },
+  {
+    "id": "Piras S",
+    "label": "Piras S",
+    "x": 18.5498,
+    "y": 5.2619,
+    "group": "Other"
+  },
+  {
+    "id": "Pirotti T",
+    "label": "Pirotti T",
+    "x": -3.2785,
+    "y": 0.7661,
+    "group": "Other"
+  },
+  {
+    "id": "Pisano E",
+    "label": "Pisano E",
+    "x": -4.559,
+    "y": 2.8942,
+    "group": "Other"
+  },
+  {
+    "id": "Piscitelli G",
+    "label": "Piscitelli G",
+    "x": 5.4056,
+    "y": 2.5083,
+    "group": "Other"
+  },
+  {
+    "id": "Pistoresi B",
+    "label": "Pistoresi B",
+    "x": -8.213,
+    "y": -5.2413,
+    "group": "Other"
+  },
+  {
+    "id": "Platt M",
+    "label": "Platt M",
+    "x": 18.9665,
+    "y": 6.124,
+    "group": "Other"
+  },
+  {
+    "id": "Podder S",
+    "label": "Podder S",
+    "x": 18.4975,
+    "y": 8.3628,
+    "group": "Other"
+  },
+  {
+    "id": "Poggi A",
+    "label": "Poggi A",
+    "x": 5.7066,
+    "y": 11.8072,
+    "group": "Other"
+  },
+  {
+    "id": "Poli I",
+    "label": "Poli I",
+    "x": 10.2423,
+    "y": -4.6151,
+    "group": "Other"
+  },
+  {
+    "id": "Poliandri D",
+    "label": "Poliandri D",
+    "x": 4.7484,
+    "y": 10.2462,
+    "group": "Other"
+  },
+  {
+    "id": "Pozzoli S",
+    "label": "Pozzoli S",
+    "x": 6.8197,
+    "y": 9.9572,
+    "group": "Other"
+  },
+  {
+    "id": "Price G",
+    "label": "Price G",
+    "x": -1.0851,
+    "y": 6.5535,
+    "group": "Other"
+  },
+  {
+    "id": "Pudney S",
+    "label": "Pudney S",
+    "x": -0.2546,
+    "y": 9.9757,
+    "group": "Other"
+  },
+  {
+    "id": "Pugni V",
+    "label": "Pugni V",
+    "x": -3.8612,
+    "y": 11.3531,
+    "group": "Other"
+  },
+  {
+    "id": "Pulejo L",
+    "label": "Pulejo L",
+    "x": -8.4051,
+    "y": -7.9946,
+    "group": "Other"
+  },
+  {
+    "id": "Pusch C",
+    "label": "Pusch C",
+    "x": -9.1406,
+    "y": 1.1743,
+    "group": "Other"
+  },
+  {
+    "id": "Raitano M",
+    "label": "Raitano M",
+    "x": 10.13,
+    "y": -13.747,
+    "group": "Other"
+  },
+  {
+    "id": "Ranci C",
+    "label": "Ranci C",
+    "x": -3.9246,
+    "y": 2.8835,
+    "group": "Other"
+  },
+  {
+    "id": "Ranci Ortigosa E",
+    "label": "Ranci Ortigosa E",
+    "x": 2.9368,
+    "y": -7.8474,
+    "group": "Other"
+  },
+  {
+    "id": "Ranuzzini M",
+    "label": "Ranuzzini M",
+    "x": 6.1071,
+    "y": -2.2562,
+    "group": "Other"
+  },
+  {
+    "id": "Reinicke K",
+    "label": "Reinicke K",
+    "x": 6.9638,
+    "y": -9.7245,
+    "group": "Other"
+  },
+  {
+    "id": "Reverberi M",
+    "label": "Reverberi M",
+    "x": 5.7821,
+    "y": -2.2208,
+    "group": "Other"
+  },
+  {
+    "id": "Reynolds C",
+    "label": "Reynolds C",
+    "x": 19.8189,
+    "y": 0.6742,
+    "group": "Other"
+  },
+  {
+    "id": "Riboldi B",
+    "label": "Riboldi B",
+    "x": 3.341,
+    "y": -1.6571,
+    "group": "Other"
+  },
+  {
+    "id": "Rieser V",
+    "label": "Rieser V",
+    "x": 6.5131,
+    "y": -4.7701,
+    "group": "Other"
+  },
+  {
+    "id": "Righi E",
+    "label": "Righi E",
+    "x": 2.8209,
+    "y": 6.0171,
+    "group": "Other"
+  },
+  {
+    "id": "Righi G",
+    "label": "Righi G",
+    "x": 2.0013,
+    "y": -3.8508,
+    "group": "Other"
+  },
+  {
+    "id": "Righi R",
+    "label": "Righi R",
+    "x": 11.6124,
+    "y": 3.5547,
+    "group": "CAPP"
+  },
+  {
+    "id": "Righi S",
+    "label": "Righi S",
+    "x": 13.9269,
+    "y": 3.7746,
+    "group": "CAPP"
+  },
+  {
+    "id": "Rinaldi A",
+    "label": "Rinaldi A",
+    "x": -0.8273,
+    "y": -3.6165,
+    "group": "Other"
+  },
+  {
+    "id": "Rizzi C",
+    "label": "Rizzi C",
+    "x": 3.5916,
+    "y": 5.4243,
+    "group": "Other"
+  },
+  {
+    "id": "Rizzo L",
+    "label": "Rizzo L",
+    "x": -1.6319,
+    "y": -8.3599,
+    "group": "Other"
+  },
+  {
+    "id": "Robustelli C",
+    "label": "Robustelli C",
+    "x": -6.0772,
+    "y": -7.7373,
+    "group": "Other"
+  },
+  {
+    "id": "Rodriguez Modrono P",
+    "label": "Rodriguez Modrono P",
+    "x": -12.2793,
+    "y": 0.0611,
+    "group": "Other"
+  },
+  {
+    "id": "Roland M",
+    "label": "Roland M",
+    "x": -2.1664,
+    "y": 11.2254,
+    "group": "Other"
+  },
+  {
+    "id": "Roli A",
+    "label": "Roli A",
+    "x": 9.806,
+    "y": 5.4964,
+    "group": "Other"
+  },
+  {
+    "id": "Romaniello G",
+    "label": "Romaniello G",
+    "x": 8.7641,
+    "y": 9.2307,
+    "group": "Other"
+  },
+  {
+    "id": "Romeo S",
+    "label": "Romeo S",
+    "x": 8.5821,
+    "y": 9.9268,
+    "group": "Other"
+  },
+  {
+    "id": "Rosano A",
+    "label": "Rosano A",
+    "x": 14.2935,
+    "y": -9.4228,
+    "group": "Other"
+  },
+  {
+    "id": "Rosina A",
+    "label": "Rosina A",
+    "x": 3.5696,
+    "y": -10.3659,
+    "group": "Other"
+  },
+  {
+    "id": "Rosli A",
+    "label": "Rosli A",
+    "x": 7.5475,
+    "y": 13.8514,
+    "group": "Other"
+  },
+  {
+    "id": "Rossetto I",
+    "label": "Rossetto I",
+    "x": -12.0396,
+    "y": -3.2012,
+    "group": "Other"
+  },
+  {
+    "id": "Rossi F",
+    "label": "Rossi F",
+    "x": 10.7071,
+    "y": 10.4291,
+    "group": "CAPP"
+  },
+  {
+    "id": "Ruchira G",
+    "label": "Ruchira G",
+    "x": 6.1249,
+    "y": 10.9926,
+    "group": "Other"
+  },
+  {
+    "id": "Ruffini S",
+    "label": "Ruffini S",
+    "x": 4.4324,
+    "y": -3.0213,
+    "group": "Other"
+  },
+  {
+    "id": "Russo M",
+    "label": "Russo M",
+    "x": 6.2521,
+    "y": 4.403,
+    "group": "CAPP"
+  },
+  {
+    "id": "Russo T",
+    "label": "Russo T",
+    "x": -6.7915,
+    "y": -7.4387,
+    "group": "Other"
+  },
+  {
+    "id": "Rutter M",
+    "label": "Rutter M",
+    "x": -5.5148,
+    "y": 7.8662,
+    "group": "Other"
+  },
+  {
+    "id": "Rymkevich O",
+    "label": "Rymkevich O",
+    "x": -1.5167,
+    "y": -2.0787,
+    "group": "Other"
+  },
+  {
+    "id": "Sacchi S",
+    "label": "Sacchi S",
+    "x": 11.6848,
+    "y": -13.5389,
+    "group": "Other"
+  },
+  {
+    "id": "Saltini S",
+    "label": "Saltini S",
+    "x": -2.4168,
+    "y": -1.4346,
+    "group": "Other"
+  },
+  {
+    "id": "Sangines J",
+    "label": "Sangines J",
+    "x": 12.5621,
+    "y": 4.71,
+    "group": "Other"
+  },
+  {
+    "id": "Sanseverino D",
+    "label": "Sanseverino D",
+    "x": -9.761,
+    "y": -4.4183,
+    "group": "Other"
+  },
+  {
+    "id": "Santello F",
+    "label": "Santello F",
+    "x": 6.4428,
+    "y": -8.3173,
+    "group": "Other"
+  },
+  {
+    "id": "Saraceno C",
+    "label": "Saraceno C",
+    "x": 3.9456,
+    "y": -9.4433,
+    "group": "Other"
+  },
+  {
+    "id": "Sardo S",
+    "label": "Sardo S",
+    "x": 9.602,
+    "y": 9.6382,
+    "group": "Other"
+  },
+  {
+    "id": "Sargolini M",
+    "label": "Sargolini M",
+    "x": 9.1768,
+    "y": 5.8622,
+    "group": "Other"
+  },
+  {
+    "id": "Sarti E",
+    "label": "Sarti E",
+    "x": -0.6046,
+    "y": -1.413,
+    "group": "CAPP"
+  },
+  {
+    "id": "Sartori L",
+    "label": "Sartori L",
+    "x": 6.8672,
+    "y": 1.0895,
+    "group": "CAPP"
+  },
+  {
+    "id": "Savioli R",
+    "label": "Savioli R",
+    "x": 10.0425,
+    "y": -3.8017,
+    "group": "Other"
+  },
+  {
+    "id": "Scaltriti M",
+    "label": "Scaltriti M",
+    "x": 8.6858,
+    "y": -7.7934,
+    "group": "Other"
+  },
+  {
+    "id": "Scarpa S",
+    "label": "Scarpa S",
+    "x": -2.576,
+    "y": 0.615,
+    "group": "CAPP"
+  },
+  {
+    "id": "Scatorchia A",
+    "label": "Scatorchia A",
+    "x": 4.4605,
+    "y": 10.7663,
+    "group": "Other"
+  },
+  {
+    "id": "Schlager C",
+    "label": "Schlager C",
+    "x": -5.0774,
+    "y": -6.7286,
+    "group": "Other"
+  },
+  {
+    "id": "Schuelke L",
+    "label": "Schuelke L",
+    "x": -7.8343,
+    "y": 4.8165,
+    "group": "Other"
+  },
+  {
+    "id": "Senatori I",
+    "label": "Senatori I",
+    "x": -1.798,
+    "y": -3.3108,
+    "group": "Other"
+  },
+  {
+    "id": "Sengupta A",
+    "label": "Sengupta A",
+    "x": 13.5733,
+    "y": 15.3735,
+    "group": "Other"
+  },
+  {
+    "id": "Serbati S",
+    "label": "Serbati S",
+    "x": 6.8651,
+    "y": -5.8383,
+    "group": "Other"
+  },
+  {
+    "id": "Serra R",
+    "label": "Serra R",
+    "x": 11.9405,
+    "y": 6.4196,
+    "group": "Other"
+  },
+  {
+    "id": "Setti M",
+    "label": "Setti M",
+    "x": 18.5009,
+    "y": 4.5875,
+    "group": "Other"
+  },
+  {
+    "id": "Shemilt I",
+    "label": "Shemilt I",
+    "x": -2.0985,
+    "y": 7.5901,
+    "group": "Other"
+  },
+  {
+    "id": "Short A",
+    "label": "Short A",
+    "x": -3.3987,
+    "y": 11.1671,
+    "group": "Other"
+  },
+  {
+    "id": "Silvestri F",
+    "label": "Silvestri F",
+    "x": 10.4242,
+    "y": 8.7096,
+    "group": "Other"
+  },
+  {
+    "id": "Silvestri L",
+    "label": "Silvestri L",
+    "x": 2.537,
+    "y": -5.1759,
+    "group": "Other"
+  },
+  {
+    "id": "Silvestri P",
+    "label": "Silvestri P",
+    "x": 2.9333,
+    "y": 0.1048,
+    "group": "CAPP"
+  },
+  {
+    "id": "Silvia G",
+    "label": "Silvia G",
+    "x": 2.4924,
+    "y": -17.8817,
+    "group": "Other"
+  },
+  {
+    "id": "Simonazzi A",
+    "label": "Simonazzi A",
+    "x": 12.0678,
+    "y": 3.3582,
+    "group": "Other"
+  },
+  {
+    "id": "Simpson G",
+    "label": "Simpson G",
+    "x": -0.5935,
+    "y": 8.592,
+    "group": "Other"
+  },
+  {
+    "id": "Sita C",
+    "label": "Sita C",
+    "x": 8.0484,
+    "y": -8.0399,
+    "group": "Other"
+  },
+  {
+    "id": "Soldati M",
+    "label": "Soldati M",
+    "x": 3.1084,
+    "y": 6.5716,
+    "group": "Other"
+  },
+  {
+    "id": "Solinas G",
+    "label": "Solinas G",
+    "x": 2.9912,
+    "y": -2.8582,
+    "group": "CAPP"
+  },
+  {
+    "id": "Spagnoli P",
+    "label": "Spagnoli P",
+    "x": -8.8166,
+    "y": -8.7837,
+    "group": "Other"
+  },
+  {
+    "id": "Spijker J",
+    "label": "Spijker J",
+    "x": -11.9888,
+    "y": -2.3155,
+    "group": "Other"
+  },
+  {
+    "id": "Stewart G",
+    "label": "Stewart G",
+    "x": 18.8586,
+    "y": 3.5264,
+    "group": "Other"
+  },
+  {
+    "id": "Stokes J",
+    "label": "Stokes J",
+    "x": -4.2192,
+    "y": 8.2168,
+    "group": "Other"
+  },
+  {
+    "id": "Strozzi C",
+    "label": "Strozzi C",
+    "x": -5.2093,
+    "y": -7.6867,
+    "group": "Other"
+  },
+  {
+    "id": "Styczynska I",
+    "label": "Styczynska I",
+    "x": 3.4247,
+    "y": -11.7812,
+    "group": "Other"
+  },
+  {
+    "id": "Suhrcke M",
+    "label": "Suhrcke M",
+    "x": -3.1817,
+    "y": 7.5613,
+    "group": "Other"
+  },
+  {
+    "id": "Sutton M",
+    "label": "Sutton M",
+    "x": -4.5013,
+    "y": 6.0076,
+    "group": "Other"
+  },
+  {
+    "id": "Tagliazucchi G",
+    "label": "Tagliazucchi G",
+    "x": 4.72,
+    "y": -6.9534,
+    "group": "Other"
+  },
+  {
+    "id": "Tallack C",
+    "label": "Tallack C",
+    "x": -8.3672,
+    "y": 6.1579,
+    "group": "Other"
+  },
+  {
+    "id": "Tasselli C",
+    "label": "Tasselli C",
+    "x": -4.7728,
+    "y": -8.6199,
+    "group": "Other"
+  },
+  {
+    "id": "Thomas J",
+    "label": "Thomas J",
+    "x": -0.4898,
+    "y": 10.4123,
+    "group": "Other"
+  },
+  {
+    "id": "Todros T",
+    "label": "Todros T",
+    "x": -6.2288,
+    "y": 10.3266,
+    "group": "Other"
+  },
+  {
+    "id": "Tomasin P",
+    "label": "Tomasin P",
+    "x": -7.9883,
+    "y": -10.321,
+    "group": "Other"
+  },
+  {
+    "id": "Tomio P",
+    "label": "Tomio P",
+    "x": -11.201,
+    "y": -7.6992,
+    "group": "Other"
+  },
+  {
+    "id": "Tondelli M",
+    "label": "Tondelli M",
+    "x": -10.4259,
+    "y": -4.655,
+    "group": "Other"
+  },
+  {
+    "id": "Torricelli C",
+    "label": "Torricelli C",
+    "x": 2.614,
+    "y": -11.798,
+    "group": "Other"
+  },
+  {
+    "id": "Toso S",
+    "label": "Toso S",
+    "x": 1.4895,
+    "y": -3.1008,
+    "group": "CAPP"
+  },
+  {
+    "id": "Turner A",
+    "label": "Turner A",
+    "x": -7.6249,
+    "y": 7.9842,
+    "group": "Other"
+  },
+  {
+    "id": "Ullah A",
+    "label": "Ullah A",
+    "x": -2.521,
+    "y": 11.446,
+    "group": "Other"
+  },
+  {
+    "id": "Valkonen T",
+    "label": "Valkonen T",
+    "x": 1.2935,
+    "y": -10.409,
+    "group": "Other"
+  },
+  {
+    "id": "Van Spall H",
+    "label": "Van Spall H",
+    "x": -3.1445,
+    "y": 8.4564,
+    "group": "Other"
+  },
+  {
+    "id": "Vandelli V",
+    "label": "Vandelli V",
+    "x": 2.3533,
+    "y": 6.5521,
+    "group": "Other"
+  },
+  {
+    "id": "Veggi S",
+    "label": "Veggi S",
+    "x": -12.9943,
+    "y": -1.6556,
+    "group": "Other"
+  },
+  {
+    "id": "Venturelli V",
+    "label": "Venturelli V",
+    "x": 14.0266,
+    "y": -3.8493,
+    "group": "Other"
+  },
+  {
+    "id": "Venturi G",
+    "label": "Venturi G",
+    "x": -11.2532,
+    "y": -5.2244,
+    "group": "Other"
+  },
+  {
+    "id": "Verma M",
+    "label": "Verma M",
+    "x": 19.3958,
+    "y": 6.6181,
+    "group": "Other"
+  },
+  {
+    "id": "Villa P",
+    "label": "Villa P",
+    "x": -1.1807,
+    "y": -3.9964,
+    "group": "Other"
+  },
+  {
+    "id": "Vinceti G",
+    "label": "Vinceti G",
+    "x": -11.3607,
+    "y": -1.0037,
+    "group": "Other"
+  },
+  {
+    "id": "Vittuari M",
+    "label": "Vittuari M",
+    "x": 20.0543,
+    "y": 5.1939,
+    "group": "Other"
+  },
+  {
+    "id": "Wattal V",
+    "label": "Wattal V",
+    "x": -8.5769,
+    "y": 6.8229,
+    "group": "Other"
+  },
+  {
+    "id": "Webb R",
+    "label": "Webb R",
+    "x": -1.6647,
+    "y": 9.1833,
+    "group": "Other"
+  },
+  {
+    "id": "Weisenburger E",
+    "label": "Weisenburger E",
+    "x": 12.5182,
+    "y": 1.2523,
+    "group": "Other"
+  },
+  {
+    "id": "Whittaker W",
+    "label": "Whittaker W",
+    "x": -1.755,
+    "y": 8.1556,
+    "group": "Other"
+  },
+  {
+    "id": "Wittenberg R",
+    "label": "Wittenberg R",
+    "x": -5.5473,
+    "y": 3.7996,
+    "group": "Other"
+  },
+  {
+    "id": "Yang J",
+    "label": "Yang J",
+    "x": 15.4714,
+    "y": 12.7954,
+    "group": "Other"
+  },
+  {
+    "id": "Yip N",
+    "label": "Yip N",
+    "x": 5.821,
+    "y": 14.3108,
+    "group": "Other"
+  },
+  {
+    "id": "Young J",
+    "label": "Young J",
+    "x": -7.4971,
+    "y": 9.0713,
+    "group": "Other"
+  },
+  {
+    "id": "Zanon O",
+    "label": "Zanon O",
+    "x": 9.6145,
+    "y": -6.4562,
+    "group": "Other"
+  },
+  {
+    "id": "Zara G",
+    "label": "Zara G",
+    "x": -10.6594,
+    "y": -1.6367,
+    "group": "Other"
+  },
+  {
+    "id": "NA",
+    "label": "NA",
+    "x": 0.036,
+    "y": 0.6879,
+    "group": "Other"
+  },
+  {
+    "id": "Doran T",
+    "label": "Doran T",
+    "x": -2.6741,
+    "y": 5.0203,
+    "group": "Other"
+  },
+  {
+    "id": "Phillips D",
+    "label": "Phillips D",
+    "x": 2.5025,
+    "y": -12.2546,
+    "group": "Other"
+  },
+  {
+    "id": "Bilancini E",
+    "label": "Bilancini E",
+    "x": -7.961,
+    "y": -9.6965,
+    "group": "Other"
+  },
+  {
+    "id": "Converso D",
+    "label": "Converso D",
+    "x": -9.1974,
+    "y": -7.0036,
+    "group": "Other"
+  },
+  {
+    "id": "De Baets B",
+    "label": "De Baets B",
+    "x": -10.1919,
+    "y": -7.9619,
+    "group": "Other"
+  },
+  {
+    "id": "De Fazio G",
+    "label": "De Fazio G",
+    "x": -12.6037,
+    "y": 0.4113,
+    "group": "Other"
+  },
+  {
+    "id": "De Villota P",
+    "label": "De Villota P",
+    "x": -6.6076,
+    "y": -5.0313,
+    "group": "Other"
+  },
+  {
+    "id": "Galeazzi G",
+    "label": "Galeazzi G",
+    "x": -10.7814,
+    "y": -7.3713,
+    "group": "Other"
+  },
+  {
+    "id": "Girardi A",
+    "label": "Girardi A",
+    "x": -12.2836,
+    "y": -4.155,
+    "group": "Other"
+  },
+  {
+    "id": "Gualtieri V",
+    "label": "Gualtieri V",
+    "x": -9.8299,
+    "y": -1.3655,
+    "group": "Other"
+  },
+  {
+    "id": "Kjeldstad R",
+    "label": "Kjeldstad R",
+    "x": -10.3779,
+    "y": -5.453,
+    "group": "Other"
+  },
+  {
+    "id": "Lang T",
+    "label": "Lang T",
+    "x": -7.9339,
+    "y": -1.1609,
+    "group": "Other"
+  },
+  {
+    "id": "Magrini S",
+    "label": "Magrini S",
+    "x": -12.6182,
+    "y": -1.2578,
+    "group": "Other"
+  },
+  {
+    "id": "Mazzucchelli S",
+    "label": "Mazzucchelli S",
+    "x": -10.5158,
+    "y": -6.4814,
+    "group": "Other"
+  },
+  {
+    "id": "Militello M",
+    "label": "Militello M",
+    "x": -7.3802,
+    "y": -9.8861,
+    "group": "Other"
+  },
+  {
+    "id": "Moumtzi V",
+    "label": "Moumtzi V",
+    "x": -11.1741,
+    "y": -4.2016,
+    "group": "Other"
+  },
+  {
+    "id": "Ni Leime Á",
+    "label": "Ni Leime Á",
+    "x": -9.1566,
+    "y": -5.7687,
+    "group": "Other"
+  },
+  {
+    "id": "O'hagan A",
+    "label": "O'hagan A",
+    "x": -9.659,
+    "y": -8.5364,
+    "group": "Other"
+  },
+  {
+    "id": "Olivier F",
+    "label": "Olivier F",
+    "x": -12.7937,
+    "y": -3.2089,
+    "group": "Other"
+  },
+  {
+    "id": "Owens A",
+    "label": "Owens A",
+    "x": -9.9925,
+    "y": -7.2297,
+    "group": "Other"
+  },
+  {
+    "id": "Paccagnella O",
+    "label": "Paccagnella O",
+    "x": -6.8264,
+    "y": -10.1671,
+    "group": "Other"
+  },
+  {
+    "id": "Pecorari P",
+    "label": "Pecorari P",
+    "x": -2.8325,
+    "y": -0.9043,
+    "group": "Other"
+  },
+  {
+    "id": "Pellacani G",
+    "label": "Pellacani G",
+    "x": -6.4756,
+    "y": -8.3872,
+    "group": "Other"
+  },
+  {
+    "id": "Piriu A",
+    "label": "Piriu A",
+    "x": -4.7257,
+    "y": -7.3046,
+    "group": "Other"
+  },
+  {
+    "id": "Pirotti",
+    "label": "Pirotti",
+    "x": -3.9012,
+    "y": -0.3283,
+    "group": "Other"
+  },
+  {
+    "id": "Reardon J",
+    "label": "Reardon J",
+    "x": -12.5672,
+    "y": -2.6632,
+    "group": "Other"
+  },
+  {
+    "id": "Sciulli D",
+    "label": "Sciulli D",
+    "x": -4.3955,
+    "y": -5.1969,
+    "group": "Other"
+  },
+  {
+    "id": "Serra C",
+    "label": "Serra C",
+    "x": -5.5148,
+    "y": -9.437,
+    "group": "Other"
+  },
+  {
+    "id": "Shuli I",
+    "label": "Shuli I",
+    "x": -8.191,
+    "y": -3.6097,
+    "group": "Other"
+  },
+  {
+    "id": "Siemienska R",
+    "label": "Siemienska R",
+    "x": -12.2493,
+    "y": -0.7987,
+    "group": "Other"
+  },
+  {
+    "id": "Starace F",
+    "label": "Starace F",
+    "x": -5.0273,
+    "y": -4.0991,
+    "group": "Other"
+  },
+  {
+    "id": "Vermiglio G",
+    "label": "Vermiglio G",
+    "x": -11.6501,
+    "y": 1.2415,
+    "group": "Other"
+  },
+  {
+    "id": "Zamboni G",
+    "label": "Zamboni G",
+    "x": -10.0367,
+    "y": -2.5465,
+    "group": "Other"
+  },
+  {
+    "id": "Zenezini M",
+    "label": "Zenezini M",
+    "x": -1.4259,
+    "y": -3.6144,
+    "group": "Other"
+  },
+  {
+    "id": "Zrinscak S",
+    "label": "Zrinscak S",
+    "x": -12.6686,
+    "y": -0.3587,
+    "group": "Other"
+  },
+  {
+    "id": "Di Santo E",
+    "label": "Di Santo E",
+    "x": 4.986,
+    "y": 2.0129,
+    "group": "Other"
+  },
+  {
+    "id": "Rinaldini G",
+    "label": "Rinaldini G",
+    "x": 4.5115,
+    "y": 2.8118,
+    "group": "Other"
+  },
+  {
+    "id": "Ghetti V",
+    "label": "Ghetti V",
+    "x": 12.2927,
+    "y": -12.4358,
+    "group": "Other"
+  },
+  {
+    "id": "Bagherzadeh M",
+    "label": "Bagherzadeh M",
+    "x": 16.4809,
+    "y": 11.6439,
+    "group": "Other"
+  },
+  {
+    "id": "Hone T",
+    "label": "Hone T",
+    "x": -8.0207,
+    "y": 5.6866,
+    "group": "Other"
+  },
+  {
+    "id": "Bruce Stewart G",
+    "label": "Bruce Stewart G",
+    "x": 19.0897,
+    "y": 7.1736,
+    "group": "Other"
+  },
+  {
+    "id": "Di Padova P",
+    "label": "Di Padova P",
+    "x": 13.2952,
+    "y": -11.2679,
+    "group": "Other"
+  },
+  {
+    "id": "Pike T",
+    "label": "Pike T",
+    "x": -1.1643,
+    "y": 5.3345,
+    "group": "Other"
+  },
+  {
+    "id": "Smith H",
+    "label": "Smith H",
+    "x": 16.2226,
+    "y": 12.7505,
+    "group": "Other"
+  },
+  {
+    "id": "Wilson E",
+    "label": "Wilson E",
+    "x": 16.4867,
+    "y": 12.3788,
+    "group": "Other"
+  },
+  {
+    "id": "Arachi G",
+    "label": "Arachi G",
+    "x": -4.2981,
+    "y": -11.5242,
+    "group": "Other"
+  },
+  {
+    "id": "Beltrametti L",
+    "label": "Beltrametti L",
+    "x": -3.4397,
+    "y": -10.7506,
+    "group": "Other"
+  },
+  {
+    "id": "Bettendorf L",
+    "label": "Bettendorf L",
+    "x": -3.8969,
+    "y": -11.1586,
+    "group": "Other"
+  },
+  {
+    "id": "Chiara S",
+    "label": "Chiara S",
+    "x": 3.0606,
+    "y": -9.8354,
+    "group": "Other"
+  },
+  {
+    "id": "D'antoni M",
+    "label": "D'antoni M",
+    "x": -2.3916,
+    "y": -8.6785,
+    "group": "Other"
+  },
+  {
+    "id": "Federici M",
+    "label": "Federici M",
+    "x": -3.1144,
+    "y": -12.9183,
+    "group": "Other"
+  },
+  {
+    "id": "Jane Casabianca E",
+    "label": "Jane Casabianca E",
+    "x": -2.0614,
+    "y": -11.1445,
+    "group": "Other"
+  },
+  {
+    "id": "Lalla M",
+    "label": "Lalla M",
+    "x": 2.4548,
+    "y": -4.5328,
+    "group": "CAPP"
+  },
+  {
+    "id": "Lambertini L",
+    "label": "Lambertini L",
+    "x": -3.7323,
+    "y": -11.9963,
+    "group": "Other"
+  },
+  {
+    "id": "Matteuzzi M",
+    "label": "Matteuzzi M",
+    "x": 2.9434,
+    "y": -4.3024,
+    "group": "Other"
+  },
+  {
+    "id": "Mezzaferro C",
+    "label": "Mezzaferro C",
+    "x": -3.5798,
+    "y": -12.7362,
+    "group": "Other"
+  },
+  {
+    "id": "Paladini R",
+    "label": "Paladini R",
+    "x": -0.6414,
+    "y": -11.4698,
+    "group": "Other"
+  },
+  {
+    "id": "Poggio T",
+    "label": "Poggio T",
+    "x": -2.4626,
+    "y": -12.6712,
+    "group": "Other"
+  },
+  {
+    "id": "Stefano T",
+    "label": "Stefano T",
+    "x": -3.0465,
+    "y": -12.2389,
+    "group": "Other"
+  },
+  {
+    "id": "Teresio P",
+    "label": "Teresio P",
+    "x": -2.1644,
+    "y": -12.0316,
+    "group": "Other"
+  },
+  {
+    "id": "Termini F",
+    "label": "Termini F",
+    "x": -1.8821,
+    "y": -13.1973,
+    "group": "Other"
+  },
+  {
+    "id": "Toft C",
+    "label": "Toft C",
+    "x": -3.047,
+    "y": -11.4722,
+    "group": "Other"
+  },
+  {
+    "id": "Trapani A",
+    "label": "Trapani A",
+    "x": 4.6152,
+    "y": -5.6955,
+    "group": "Other"
+  },
+  {
+    "id": "Trivellato U",
+    "label": "Trivellato U",
+    "x": 1.1727,
+    "y": -8.8415,
+    "group": "Other"
+  },
+  {
+    "id": "Turati G",
+    "label": "Turati G",
+    "x": -1.6724,
+    "y": -12.7206,
+    "group": "Other"
+  },
+  {
+    "id": "Urzi Brancati M",
+    "label": "Urzi Brancati M",
+    "x": -0.6403,
+    "y": -12.55,
+    "group": "Other"
+  },
+  {
+    "id": "Vecchi G",
+    "label": "Vecchi G",
+    "x": -4.5779,
+    "y": -11.8974,
+    "group": "Other"
+  },
+  {
+    "id": "Zanardi A",
+    "label": "Zanardi A",
+    "x": -1.3636,
+    "y": -11.5467,
+    "group": "Other"
+  },
+  {
+    "id": "Sciclone N",
+    "label": "Sciclone N",
+    "x": -8.5423,
+    "y": 7.8263,
+    "group": "Other"
+  },
+  {
+    "id": "Zilio E",
+    "label": "Zilio E",
+    "x": 11.3263,
+    "y": 0.4687,
+    "group": "Other"
+  },
+  {
+    "id": "Sovieni L",
+    "label": "Sovieni L",
+    "x": 13.0245,
+    "y": 15.7983,
+    "group": "Other"
+  },
+  {
+    "id": "Aguzzoli L",
+    "label": "Aguzzoli L",
+    "x": -4.9824,
+    "y": 10.2774,
+    "group": "Other"
+  },
+  {
+    "id": "Patriarca F",
+    "label": "Patriarca F",
+    "x": 10.7477,
+    "y": -12.8951,
+    "group": "Other"
+  },
+  {
+    "id": "Scicchitano S",
+    "label": "Scicchitano S",
+    "x": 8.4982,
+    "y": -14.5421,
+    "group": "Other"
+  },
+  {
+    "id": "Vezzani P",
+    "label": "Vezzani P",
+    "x": 5.8978,
+    "y": 0.1842,
+    "group": "Other"
+  },
+  {
+    "id": "Tiraferri A",
+    "label": "Tiraferri A",
+    "x": 1.1829,
+    "y": -17.9054,
+    "group": "Other"
+  },
+  {
+    "id": "Mas F",
+    "label": "Mas F",
+    "x": 4.0758,
+    "y": 10.9852,
+    "group": "Other"
+  },
+  {
+    "id": "Cullum N",
+    "label": "Cullum N",
+    "x": -4.1847,
+    "y": 11.0915,
+    "group": "Other"
+  },
+  {
+    "id": "Pezzi V",
+    "label": "Pezzi V",
+    "x": 10.7132,
+    "y": -4.7943,
+    "group": "Other"
+  },
+  {
+    "id": "Luppi M",
+    "label": "Luppi M",
+    "x": 7.1949,
+    "y": -15.6077,
+    "group": "Other"
+  },
+  {
+    "id": "Terranova G",
+    "label": "Terranova G",
+    "x": 6.0818,
+    "y": 11.6143,
+    "group": "Other"
+  },
+  {
+    "id": "Fanelli D",
+    "label": "Fanelli D",
+    "x": 17.6162,
+    "y": 9.6011,
+    "group": "Other"
+  },
+  {
+    "id": "Pianesani R",
+    "label": "Pianesani R",
+    "x": 11.8235,
+    "y": 5.788,
+    "group": "Other"
+  },
+  {
+    "id": "Mays N",
+    "label": "Mays N",
+    "x": -5.711,
+    "y": 10.1597,
+    "group": "Other"
+  },
+  {
+    "id": "Masi A",
+    "label": "Masi A",
+    "x": 8.8206,
+    "y": -6.9302,
+    "group": "Other"
+  },
+  {
+    "id": "Zenarolla A",
+    "label": "Zenarolla A",
+    "x": 10.4442,
+    "y": -4.1975,
+    "group": "Other"
+  },
+  {
+    "id": "Sagarra M",
+    "label": "Sagarra M",
+    "x": 9.3851,
+    "y": 17.2462,
+    "group": "Other"
+  },
+  {
+    "id": "Searle N",
+    "label": "Searle N",
+    "x": 12.9739,
+    "y": 15.1527,
+    "group": "Other"
+  },
+  {
+    "id": "Virgili V",
+    "label": "Virgili V",
+    "x": 11.0434,
+    "y": 4.2518,
+    "group": "Other"
+  },
+  {
+    "id": "Giordano V",
+    "label": "Giordano V",
+    "x": 6.1199,
+    "y": -10.3992,
+    "group": "Other"
+  },
+  {
+    "id": "Ford J",
+    "label": "Ford J",
+    "x": -6.7009,
+    "y": 6.6466,
+    "group": "Other"
+  },
+  {
+    "id": "Zironi E",
+    "label": "Zironi E",
+    "x": 8.8479,
+    "y": 6.5732,
+    "group": "Other"
+  },
+  {
+    "id": "Van Kerm P",
+    "label": "Van Kerm P",
+    "x": 10.0723,
+    "y": -14.7065,
+    "group": "Other"
+  },
+  {
+    "id": "Garcia A",
+    "label": "Garcia A",
+    "x": 13.575,
+    "y": -10.8258,
+    "group": "Other"
+  },
+  {
+    "id": "Garofoli C",
+    "label": "Garofoli C",
+    "x": 13.9919,
+    "y": -10.024,
+    "group": "Other"
+  },
+  {
+    "id": "Pagnini C",
+    "label": "Pagnini C",
+    "x": 8.7838,
+    "y": -15.5322,
+    "group": "Other"
+  },
+  {
+    "id": "Pisciotta A",
+    "label": "Pisciotta A",
+    "x": 7.6002,
+    "y": -15.94,
+    "group": "Other"
+  },
+  {
+    "id": "Reitano M",
+    "label": "Reitano M",
+    "x": 13.9953,
+    "y": -9.5638,
+    "group": "Other"
+  },
+  {
+    "id": "Sconti A",
+    "label": "Sconti A",
+    "x": 6.6103,
+    "y": -16.2057,
+    "group": "CAPP"
+  },
+  {
+    "id": "Van Soest A",
+    "label": "Van Soest A",
+    "x": 6.1562,
+    "y": -16.1671,
+    "group": "Other"
+  },
+  {
+    "id": "Zola C",
+    "label": "Zola C",
+    "x": 10.5343,
+    "y": -14.4347,
+    "group": "Other"
+  },
+  {
+    "id": "Giulio Calabrese G",
+    "label": "Giulio Calabrese G",
+    "x": 10.5794,
+    "y": 7.1941,
+    "group": "Other"
+  },
+  {
+    "id": "Bilotta E",
+    "label": "Bilotta E",
+    "x": 9.3782,
+    "y": -4.3347,
+    "group": "Other"
+  },
+  {
+    "id": "Zoboli R",
+    "label": "Zoboli R",
+    "x": 10.2832,
+    "y": -6.5514,
+    "group": "Other"
+  },
+  {
+    "id": "Tommaso P",
+    "label": "Tommaso P",
+    "x": 9.3666,
+    "y": -7.8962,
+    "group": "Other"
+  },
+  {
+    "id": "Quested T",
+    "label": "Quested T",
+    "x": 20.1054,
+    "y": 2.1095,
+    "group": "Other"
+  },
+  {
+    "id": "Alberto Z",
+    "label": "Alberto Z",
+    "x": 3.4406,
+    "y": -17.736,
+    "group": "Other"
+  },
+  {
+    "id": "Romano E",
+    "label": "Romano E",
+    "x": 4.9254,
+    "y": -17.4264,
+    "group": "Other"
+  },
+  {
+    "id": "Ruggero P",
+    "label": "Ruggero P",
+    "x": 4.3542,
+    "y": -17.5595,
+    "group": "Other"
+  },
+  {
+    "id": "Tangorra R",
+    "label": "Tangorra R",
+    "x": 1.8573,
+    "y": -17.9492,
+    "group": "Other"
+  },
+  {
+    "id": "Zuffi F",
+    "label": "Zuffi F",
+    "x": -0.867,
+    "y": -17.9497,
+    "group": "Other"
+  },
+  {
+    "id": "Bisci C",
+    "label": "Bisci C",
+    "x": 11.9674,
+    "y": 1.6067,
+    "group": "Other"
+  },
+  {
+    "id": "Zantomio F",
+    "label": "Zantomio F",
+    "x": -2.8411,
+    "y": 10.6811,
+    "group": "Other"
+  },
+  {
+    "id": "Uyarra E",
+    "label": "Uyarra E",
+    "x": 14.4395,
+    "y": 14.3685,
+    "group": "Other"
+  },
+  {
+    "id": "Luceri B",
+    "label": "Luceri B",
+    "x": 9.5666,
+    "y": -5.5944,
+    "group": "Other"
+  },
+  {
+    "id": "Stefan S",
+    "label": "Stefan S",
+    "x": 20.4236,
+    "y": -13.444,
+    "group": "Other"
+  },
+  {
+    "id": "Savegnago M",
+    "label": "Savegnago M",
+    "x": -1.4981,
+    "y": 2.5281,
+    "group": "Other"
+  },
+  {
+    "id": "Tedeschi S",
+    "label": "Tedeschi S",
+    "x": -2.5615,
+    "y": 2.7517,
+    "group": "Other"
+  },
+  {
+    "id": "Hartley L",
+    "label": "Hartley L",
+    "x": -8.9365,
+    "y": 6.653,
+    "group": "Other"
+  },
+  {
+    "id": "Marteau T",
+    "label": "Marteau T",
+    "x": -5.9427,
+    "y": 9.481,
+    "group": "Other"
+  },
+  {
+    "id": "Takacs K",
+    "label": "Takacs K",
+    "x": 19.3643,
+    "y": 5.2031,
+    "group": "Other"
+  },
+  {
+    "id": "Fiordelmond O",
+    "label": "Fiordelmond O",
+    "x": 10.3214,
+    "y": 6.4231,
+    "group": "Other"
+  },
+  {
+    "id": "Tantillo F",
+    "label": "Tantillo F",
+    "x": 10.2203,
+    "y": 7.8666,
+    "group": "Other"
+  },
+  {
+    "id": "Villani M",
+    "label": "Villani M",
+    "x": 12.4503,
+    "y": 4.2196,
+    "group": "Other"
+  },
+  {
+    "id": "Karoly T",
+    "label": "Karoly T",
+    "x": 19.2678,
+    "y": -0.7785,
+    "group": "Other"
+  },
+  {
+    "id": "Goglio V",
+    "label": "Goglio V",
+    "x": 15.527,
+    "y": 13.6726,
+    "group": "Other"
+  },
+  {
+    "id": "Whitford J",
+    "label": "Whitford J",
+    "x": 7.9375,
+    "y": 10.9761,
+    "group": "Other"
+  },
+  {
+    "id": "Mengoni P",
+    "label": "Mengoni P",
+    "x": 11.277,
+    "y": 5.0073,
+    "group": "Other"
+  },
+  {
+    "id": "Pentucci P",
+    "label": "Pentucci P",
+    "x": 11.0543,
+    "y": 7.6494,
+    "group": "Other"
+  },
+  {
+    "id": "Ruggeri R",
+    "label": "Ruggeri R",
+    "x": 4.8242,
+    "y": 11.1885,
+    "group": "Other"
+  },
+  {
+    "id": "Scagliarini S",
+    "label": "Scagliarini S",
+    "x": 11.2065,
+    "y": 5.9996,
+    "group": "Other"
+  },
+  {
+    "id": "Baroni D",
+    "label": "Baroni D",
+    "x": 6.007,
+    "y": -9.7117,
+    "group": "Other"
+  },
+  {
+    "id": "Vernole E",
+    "label": "Vernole E",
+    "x": 7.5093,
+    "y": -8.8388,
+    "group": "Other"
+  }
+]
